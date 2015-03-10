@@ -1,0 +1,6260 @@
+[	
+	{
+		"name": "Shinhwa",
+		"img_name": "Shinhwa",
+	    "label": "Shinhwa Company",
+	    "debut": "24-03-1998",
+	    "members": [
+	        {
+	        	"name": "Eric Mun"
+	      	},
+	      	{
+	        	"name": "Lee Min-woo"
+	      	},
+	      	{
+	        	"name": "Kim Dong-wan"
+	      	},
+	      	{
+	        	"name": "Shin Hye-sung"
+	      	},
+	      	{
+	        	"name": "Jun Jin"
+	      	},
+	      	{
+	        	"name": "Andy Lee"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "Shinwha Changjo",
+	    "color": "Orange"
+    },
+
+    {
+		"name": "Koyote",
+		"img_name": "Koyote",
+	    "label": "Trifecta Entertainment",
+	    "debut": "1998",
+	    "members": [
+	        {
+	        	"name": "Kim Jong Min"
+	      	},
+	      	{
+	        	"name": "Shin Ji"
+	      	},
+	      	{
+	        	"name": "Bbaek Ga"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "Cha Seung Min"
+	      	},
+	      	{
+	        	"name": "Kim Goo"
+	      	},
+	      	{
+	        	"name": "Kim Young Wan"
+	      	},
+	      	{
+	        	"name": "Jung Myung Hoon"
+	      	}
+	    ],
+	    "fanclub": "Little Sun",
+	    "color": "Pearl Blue"
+    },
+    
+    {
+		"name": "G.O.D.",
+		"img_name": "G.O.D",
+	    "label": "Sidus HQ",
+	    "debut": "1999",
+	    "members": [
+	        {
+	        	"name": "Park Joon Hyung"
+	      	},
+	      	{
+	        	"name": "Yoon Kye Sang"
+	      	},
+	      	{
+	        	"name": "Danny Ahn"
+	      	},
+	      	{
+	        	"name": "Son Ho-young"
+	      	},
+	      	{
+	        	"name": "Kim Tae-woo"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "Fan God",
+	    "color": "Sky Blue"
+    },
+    
+    {
+		"name": "Jewelry",
+		"img_name": "Jewelry",
+	    "label": "Star Empire Entertainment",
+	    "debut": "2001",
+	    "members": [
+	        {
+	        	"name": "Ye-won"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "Kim Eunjung"
+	      	},
+	      	{
+	        	"name": "Jung Yoo-jin"
+	      	},
+	      	{
+	        	"name": "Jun Eun-mi"
+	      	},
+	      	{
+	        	"name": "Lee Ji-hyun"
+	      	},
+	      	{
+	        	"name": "Cho Min-ah"
+	      	},
+	      	{
+	        	"name": "Park Jeong-ah"
+	      	},
+	      	{
+	        	"name": "Seo In-young"
+	      	},
+	      	{
+	        	"name": "Baby J"
+	      	},
+	      	{
+	        	"name": "Semi"
+	      	}
+	    ],
+	    "fanclub": "Jewelry Box",
+	    "color": "Pearl Blue"
+    },
+    
+    {
+		"name": "Leessang",
+		"img_name": "Leessang",
+	    "label": "Jungle Entertainment",
+	    "debut": "2002",
+	    "members": [
+	        {
+	        	"name": "Gil"
+	      	},
+	      	{
+	        	"name": "Kang Gary"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "-",
+	    "color": "-"
+    },
+    
+    {
+		"name": "Dynamic Duo",
+		"img_name": "Dynamic_Duo",
+	    "label": "Amoeba Culture",
+	    "debut": "17-05-2003",
+	    "members": [
+	        {
+	        	"name": "Choiza"
+	      	},
+	      	{
+	        	"name": "Gaeko"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "-",
+	    "color": "-"
+    },
+    
+    {
+		"name": "Epik High",
+		"img_name": "Epik_High",
+	    "label": "YG Entertainment",
+	    "debut": "24-11-2003",
+	    "members": [
+	        {
+	        	"name": "Tablo"
+	      	},
+	      	{
+	        	"name": "DJ Tukutz"
+	      	},
+	      	{
+	        	"name": "Mithra Jin"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "-",
+	    "color": "-"
+    },
+    
+    {
+		"name": "TVXQ!",
+		"img_name": "TVXQ",
+	    "label": "SM Entertainment",
+	    "debut": "14-01-2004",
+	    "members": [
+	        {
+	        	"name": "U-Know Yunho"
+	      	},
+	      	{
+	        	"name": "Max Changmin"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "Hero Jaejoong"
+	      	},
+	      	{
+	        	"name": "Micky Yoochun"
+	      	},
+	      	{
+	        	"name": "Xiah Junsu"
+	      	}
+	    ],
+	    "fanclub": "Cassiopeia",
+	    "color": "Pearl Red"
+    },
+    
+    {
+		"name": "SS501",
+		"img_name": "SS501",
+	    "label": "DSP Media",
+	    "debut": "23-06-2005",
+	    "members": [
+	        {
+	        	"name": "Kim Hyun-joong"
+	      	},
+	      	{
+	        	"name": "Heo Young-saeng"
+	      	},
+	      	{
+	        	"name": "Kim Kyu-jong"
+	      	},
+	      	{
+	        	"name": "Park Jung-min"
+	      	},
+	      	{
+	        	"name": "Kim Hyung-jun"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "Triple S",
+	    "color": "Pearl Light Green"
+    },
+    
+    {
+		"name": "Super Junior",
+		"img_name": "Super_Junior",
+	    "label": "SM Entertainment",
+	    "debut": "05-12-2005",
+	    "members": [
+	        {
+	        	"name": "Leeteuk"
+	      	},
+	      	{
+	        	"name": "Heechul"
+	      	},
+	      	{
+	        	"name": "Yesung"
+	      	},
+	      	{
+	        	"name": "Kangin"
+	      	},
+	      	{
+	        	"name": "Shindong"
+	      	},
+	      	{
+	        	"name": "Sungmin"
+	      	},
+	      	{
+	        	"name": "Eunhyuk"
+	      	},
+	      	{
+	        	"name": "Donghae"
+	      	},
+	      	{
+	        	"name": "Siwon"
+	      	},
+	      	{
+	        	"name": "Ryewook"
+	      	},
+	      	{
+	        	"name": "Kibum"
+	      	},
+	      	{
+	        	"name": "Kyuhyun"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "Han Geng"
+	      	}
+	    ],
+	    "fanclub": "E.L.F.",
+	    "color": "Pearl Sapphire Blue"
+    },
+    
+    {
+		"name": "Brown Eyed Girls",
+		"img_name": "Brown_Eyed_Girls",
+	    "label": "Nega Network",
+	    "debut": "02-03-2006",
+	    "members": [
+	        {
+	        	"name": "JeA"
+	      	},
+	      	{
+	        	"name": "Miryo"
+	      	},
+	      	{
+	        	"name": "Narsha"
+	      	},
+	      	{
+	        	"name": "Gain"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "Everlasting",
+	    "color": "Yellow and black"
+    },
+    
+    {
+		"name": "Big Bang",
+		"img_name": "Big_Bang",
+	    "label": "YG Entertainment",
+	    "debut": "29-08-2006",
+	    "members": [
+	        {
+	        	"name": "G-Dragon"
+	      	},
+	      	{
+	        	"name": "T.O.P."
+	      	},
+	      	{
+	        	"name": "Taeyang"
+	      	},
+	      	{
+	        	"name": "Daesung"
+	      	},
+	      	{
+	        	"name": "Seungri"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "V.I.P",
+	    "color": "-"
+    },
+    
+    {
+		"name": "Wonder Girls",
+		"img_name": "Wonder_Girls",
+	    "label": "JYP Entertainment",
+	    "debut": "13-02-2007",
+	    "members": [
+	        {
+	        	"name": "Yubin"
+	      	},
+	      	{
+	        	"name": "Yenny"
+	      	},
+	      	{
+	        	"name": "Sunye"
+	      	},
+	      	{
+	        	"name": "Lim"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "Hyuna"
+	      	},
+	      	{
+	        	"name": "Sunmi"
+	      	},
+	      	{
+	        	"name": "Sohee"
+	      	}
+	    ],
+	    "fanclub": "Wonderfuls",
+	    "color": "Pearl Burgundy"
+    },
+    
+    {
+		"name": "KARA",
+		"img_name": "KARA",
+	    "label": "DSP Media",
+	    "debut": "29-03-2007",
+	    "members": [
+	        {
+	        	"name": "Gyuri"
+	      	},
+	      	{
+	        	"name": "Seung-yeon"
+	      	},
+	      	{
+	        	"name": "Hara"
+	      	},
+	      	{
+	        	"name": "Youngji"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "Sung-hee"
+	      	},
+	      	{
+	        	"name": "Nicole"
+	      	},
+	      	{
+	        	"name": "Jiyoung"
+	      	}
+	    ],
+	    "fanclub": "Kamilia",
+	    "color": "Pearl Peach"
+    },
+    
+    {
+		"name": "FT Island",
+		"img_name": "F.T.Island",
+	    "label": "FNC Entertainment",
+	    "debut": "08-07-2007",
+	    "members": [
+	        {
+	        	"name": "Hongki"
+	      	},
+	      	{
+	        	"name": "Jonghoon"
+	      	},
+	      	{
+	        	"name": "Jaejin"
+	      	},
+	      	{
+	        	"name": "Minhwan"
+	      	},
+	      	{
+	        	"name": "Seunghyun"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "Wonbin"
+	      	}
+	    ],
+	    "fanclub": "Primadonna",
+	    "color": "Yellow"
+    },
+    
+    {
+		"name": "SNSD/Girls' Generation",
+		"img_name": "SNSD",
+	    "label": "SM Entertainment",
+	    "debut": "03-08-2007",
+	    "members": [
+	        {
+	        	"name": "Taeyeon"
+	      	},
+	      	{
+	        	"name": "Sunny"
+	      	},
+	      	{
+	        	"name": "Tiffany"
+	      	},
+	      	{
+	        	"name": "Hyoyeon"
+	      	},
+	      	{
+	        	"name": "Yuri"
+	      	},
+	      	{
+	        	"name": "Sooyoung"
+	      	},
+	      	{
+	        	"name": "Yoona"
+	      	},
+	      	{
+	        	"name": "Seohyun"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "Jessica"
+	      	}
+	    ],
+	    "fanclub": "Sone",
+	    "color": "Pastel Rose Pink"
+    },
+    
+    {
+		"name": "Sunny Hill",
+		"img_name": "Sunny_Hill",
+	    "label": "LOEN Entertainment",
+	    "debut": "20-09-2007",
+	    "members": [
+	        {
+	        	"name": "Jubee"
+	      	},
+	      	{
+	        	"name": "Seungah"
+	      	},
+	      	{
+	        	"name": "Kota"
+	      	},
+	      	{
+	        	"name": "Misung"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "Janghyun"
+	      	}
+	    ],
+	    "fanclub": "H:LLËR",
+	    "color": "Sunshine Yellow"
+    },
+    
+    {
+		"name": "Supernova",
+		"img_name": "Supernova",
+	    "label": "Maroo Entertainment",
+	    "debut": "20-09-2007",
+	    "members": [
+	        {
+	        	"name": "Jung Yunhak"
+	      	},
+	      	{
+	        	"name": "Kim Sungje"
+	      	},
+	      	{
+	        	"name": "Kim Kwangsu"
+	      	},
+	      	{
+	        	"name": "Yoon Sungmo"
+	      	},
+	      	{
+	        	"name": "Song Jihyuk"
+	      	},
+	      	{
+	        	"name": "Park Geonil"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "Stardust",
+	    "color": "Pearl"
+    },
+    
+    {
+		"name": "Davichi",
+		"img_name": "Davichi",
+	    "label": "Universal Music",
+	    "debut": "28-01-2008",
+	    "members": [
+	        {
+	        	"name": "Lee Haeri"
+	      	},
+	      	{
+	        	"name": "Kang Minkyung"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "Girls High",
+	    "color": "-"
+    },
+    
+    {
+		"name": "SHINee",
+		"img_name": "SHINee",
+	    "label": "SM Entertainment",
+	    "debut": "22-05-2008",
+	    "members": [
+	        {
+	        	"name": "Onew"
+	      	},
+	      	{
+	        	"name": "Jonghyun"
+	      	},
+	      	{
+	        	"name": "Key"
+	      	},
+	      	{
+	        	"name": "Minho"
+	      	},
+	      	{
+	        	"name": "Taemin"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "SHINee World (Shawol)",
+	    "color": "Pearl Aqua Green"
+    },
+    
+    {
+		"name": "2AM",
+		"img_name": "2AM",
+	    "label": "JYP Entertainment",
+	    "debut": "11-07-2008",
+	    "members": [
+	        {
+	        	"name": "Jo Kwon"
+	      	},
+	      	{
+	        	"name": "Jinwoon"
+	      	},
+	      	{
+	        	"name": "Seulong"
+	      	},
+	      	{
+	        	"name": "Changmin"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "I AM",
+	    "color": "Metal Grey"
+    },
+    
+    {
+		"name": "2PM",
+		"img_name": "2PM",
+	    "label": "JYP Entertainment",
+	    "debut": "28-08-2008",
+	    "members": [
+	        {
+	        	"name": "Jun. K"
+	      	},
+	      	{
+	        	"name": "Nichkhun"
+	      	},
+	      	{
+	        	"name": "Taecyeon"
+	      	},
+	      	{
+	        	"name": "Wooyoung"
+	      	},
+	      	{
+	        	"name": "Junho"
+	      	},
+	      	{
+	        	"name": "Chansung"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "Jay Park"
+	      	}
+	    ],
+	    "fanclub": "Hottest",
+	    "color": "Metal Grey"
+    },
+    
+    {
+		"name": "U-KISS",
+		"img_name": "U-KISS",
+	    "label": "NH Media",
+	    "debut": "03-09-2008",
+	    "members": [
+	        {
+	        	"name": "Soohyun"
+	      	},
+	      	{
+	        	"name": "Kiseop"
+	      	},
+	      	{
+	        	"name": "Eli"
+	      	},
+	      	{
+	        	"name": "AJ"
+	      	},
+	      	{
+	        	"name": "Hoon"
+	      	},
+	      	{
+	        	"name": "Kevin"
+	      	},
+	      	{
+	        	"name": "Jun"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "Alexander"
+	      	},
+	      	{
+	        	"name": "Kibum"
+	      	},
+	      	{
+	        	"name": "Dongho"
+	      	}
+	    ],
+	    "fanclub": "Kiss Me",
+	    "color": "Pearl Fuchsia"
+    },
+    
+    {
+		"name": "After School",
+		"img_name": "After_School",
+	    "label": "Pledis Entertainment",
+	    "debut": "15-01-2009",
+	    "members": [
+	        {
+	        	"name": "Jungah"
+	      	},
+	      	{
+	        	"name": "Uee"
+	      	},
+	      	{
+	        	"name": "Raina"
+	      	},
+	      	{
+	        	"name": "Nana"
+	      	},
+	      	{
+	        	"name": "Lizzy"
+	      	},
+	      	{
+	        	"name": "E-Young"
+	      	},
+	      	{
+	        	"name": "Kaeun"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "Soyoung"
+	      	},
+	      	{
+	        	"name": "Bekah"
+	      	},
+	      	{
+	        	"name": "Kahi"
+	      	},
+	      	{
+	        	"name": "Jooyeon"
+	      	}
+	    ],
+	    "fanclub": "Playgirlz/Boyz",
+	    "color": "Yellow"
+    },
+    
+    {
+		"name": "2NE1",
+		"img_name": "2NE1",
+	    "label": "YG Entertainment",
+	    "debut": "15-01-2009",
+	    "members": [
+	        {
+	        	"name": "CL"
+	      	},
+	      	{
+	        	"name": "Bom"
+	      	},
+	      	{
+	        	"name": "Dara"
+	      	},
+	      	{
+	        	"name": "Minzy"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "Blackjacks",
+	    "color": "Hot Pink"
+    },
+    
+    {
+		"name": "4minute",
+		"img_name": "4minute",
+	    "label": "Cube Entertainment",
+	    "debut": "15-06-2009",
+	    "members": [
+	        {
+	        	"name": "Jihyun"
+	      	},
+	      	{
+	        	"name": "Gayoon"
+	      	},
+	      	{
+	        	"name": "Jiyoon"
+	      	},
+	      	{
+	        	"name": "Hyuna"
+	      	},
+	      	{
+	        	"name": "Sohyun"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "4NIA",
+	    "color": "Pearl Purple"
+    },
+    
+    {
+		"name": "T-ara",
+		"img_name": "T-ara",
+	    "label": "MBK Entertainment",
+	    "debut": "27-07-2009",
+	    "members": [
+	        {
+	        	"name": "Boram"
+	      	},
+	      	{
+	        	"name": "Qri"
+	      	},
+	      	{
+	        	"name": "Soyeon"
+	      	},
+	      	{
+	        	"name": "Eunjung"
+	      	},
+	      	{
+	        	"name": "Hyomin"
+	      	},
+	      	{
+	        	"name": "Jiyeon"
+	      	},
+	      	{
+	        	"name": "Dani (T-ara N4)"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "Jiae"
+	      	},
+	      	{
+	        	"name": "Jiwon"
+	      	},
+	      	{
+	        	"name": "Hwayoung"
+	      	},
+	      	{
+	        	"name": "Areum"
+	      	}
+	    ],
+	    "fanclub": "QUEEN'S",
+	    "color": "Pearl Ivory"
+    },
+    
+    {
+		"name": "f(x)",
+		"img_name": "f(x)",
+	    "label": "SM Entertainment",
+	    "debut": "01-09-2009",
+	    "members": [
+	        {
+	        	"name": "Victoria"
+	      	},
+	      	{
+	        	"name": "Amber"
+	      	},
+	      	{
+	        	"name": "Luna"
+	      	},
+	      	{
+	        	"name": "Sulli"
+	      	},
+	      	{
+	        	"name": "Krystal"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "-",
+	    "color": "Pearl Light Periwinkle"
+    },
+    
+    {
+		"name": "Secret",
+		"img_name": "Secret",
+	    "label": "TS Entertainment",
+	    "debut": "13-10-2009",
+	    "members": [
+	        {
+	        	"name": "Hyoseong"
+	      	},
+	      	{
+	        	"name": "Hana"
+	      	},
+	      	{
+	        	"name": "Jieun"
+	      	},
+	      	{
+	        	"name": "Sunhwa"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "SECRETTIME",
+	    "color": "White"
+    },
+    
+    {
+		"name": "BEAST",
+		"img_name": "BEAST",
+	    "label": "Cube Entertainment",
+	    "debut": "14-10-2009",
+	    "members": [
+	        {
+	        	"name": "Doo-joon"
+	      	},
+	      	{
+	        	"name": "Hyun-seung"
+	      	},
+	      	{
+	        	"name": "Jun-hyung"
+	      	},
+	      	{
+	        	"name": "Yo-seob"
+	      	},
+	      	{
+	        	"name": "Gi-kwang"
+	      	},
+	      	{
+	        	"name": "Dong-woon"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "B2UTY",
+	    "color": "Dark Grey"
+    },
+    
+    {
+		"name": "MBLAQ",
+		"img_name": "MBLAQ",
+	    "label": "J.Tune Camp",
+	    "debut": "14-10-2009",
+	    "members": [
+	        {
+	        	"name": "Seungho"
+	      	},
+	      	{
+	        	"name": "Joon"
+	      	},
+	      	{
+	        	"name": "G.O"
+	      	},
+	      	{
+	        	"name": "Thunder"
+	      	},
+	      	{
+	        	"name": "Mir"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "Moos (pre-debut)"
+	      	}
+	    ],
+	    "fanclub": "A+",
+	    "color": "Pearl Chocolate"
+    },
+    
+    {
+		"name": "RAINBOW",
+		"img_name": "RAINBOW",
+	    "label": "DSP Media",
+	    "debut": "12-11-2009",
+	    "members": [
+	        {
+	        	"name": "Woori"
+	      	},
+	      	{
+	        	"name": "Seungah"
+	      	},
+	      	{
+	        	"name": "Jaekyung"
+	      	},
+	      	{
+	        	"name": "Noeul"
+	      	},
+	      	{
+	        	"name": "Yoonhye"
+	      	},
+	      	{
+	        	"name": "Jisook"
+	      	},
+	      	{
+	        	"name": "Hyunyoung"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "Rain-nous",
+	    "color": "7 Colored Rainbow"
+    },
+    
+    {
+		"name": "ZE:A",
+		"img_name": "ZEA",
+	    "label": "Star Empire Entertainment",
+	    "debut": "07-01-2010",
+	    "members": [
+	        {
+	        	"name": "Kevin"
+	      	},
+	      	{
+	        	"name": "Kwanghee"
+	      	},
+	      	{
+	        	"name": "Siwan"
+	      	},
+	      	{
+	        	"name": "Lee Hoo"
+	      	},
+	      	{
+	        	"name": "Taeheon"
+	      	},
+	      	{
+	        	"name": "Heechul"
+	      	},
+	      	{
+	        	"name": "Minwoo"
+	      	},
+	      	{
+	        	"name": "Hyungsik"
+	      	},
+	      	{
+	        	"name": "Dongjun"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "ZE:A Style",
+	    "color": "Jade Green"
+    },
+    
+    {
+		"name": "F.CUZ",
+		"img_name": "F.CUZ",
+	    "label": "Tunes Will Entertainment",
+	    "debut": "08-01-2010",
+	    "members": [
+	        {
+	        	"name": "Jinon"
+	      	},
+	      	{
+	        	"name": "Daegun"
+	      	},
+	      	{
+	        	"name": "Raehyun"
+	      	},
+	      	{
+	        	"name": "Kan"
+	      	},
+	      	{
+	        	"name": "Yejun"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "LeeU"
+	      	}
+	    ],
+	    "fanclub": "For U",
+	    "color": "Twinkle Light Silver"
+    },
+    
+    {
+		"name": "CNBLUE",
+		"img_name": "CNBLUE",
+	    "label": "FNC Entertainment",
+	    "debut": "14-01-2010",
+	    "members": [
+	        {
+	        	"name": "Yong-hwa"
+	      	},
+	      	{
+	        	"name": "Jong-hyun"
+	      	},
+	      	{
+	        	"name": "Min-hyuk"
+	      	},
+	      	{
+	        	"name": "Jung-shin"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "Kwang-jin"
+	      	}
+	    ],
+	    "fanclub": "Boice",
+	    "color": "Blue"
+    },
+    
+    {
+		"name": "DGNA/The BOSS",
+		"img_name": "DGNA",
+	    "label": "Poom Entertainment",
+	    "debut": "04-03-2010",
+	    "members": [
+	        {
+	        	"name": "Mika"
+	      	},
+	      	{
+	        	"name": "Karam"
+	      	},
+	      	{
+	        	"name": "Hyunmin"
+	      	},
+	      	{
+	        	"name": "Injun"
+	      	},
+	      	{
+	        	"name": "Jay"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "MASTER",
+	    "color": "Pearl Terracotta"
+    },
+    
+    {
+		"name": "SISTAR",
+		"img_name": "SISTAR",
+	    "label": "Starship Entertainment",
+	    "debut": "03-06-2010",
+	    "members": [
+	        {
+	        	"name": "Hyolyn"
+	      	},
+	      	{
+	        	"name": "Bora"
+	      	},
+	      	{
+	        	"name": "Soyou"
+	      	},
+	      	{
+	        	"name": "Dosam"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "STAR1 (Style)",
+	    "color": "Fuchsia"
+    },
+    
+    {
+		"name": "INFINITE",
+		"img_name": "INFINITE",
+	    "label": "Woollim Entertainment",
+	    "debut": "09-06-2010",
+	    "members": [
+	        {
+	        	"name": "Sungkyu"
+	      	},
+	      	{
+	        	"name": "Dongwoo"
+	      	},
+	      	{
+	        	"name": "Woohyun"
+	      	},
+	      	{
+	        	"name": "Hoya"
+	      	},
+	      	{
+	        	"name": "Sungyeol"
+	      	},
+	      	{
+	        	"name": "L"
+	      	},
+	      	{
+	        	"name": "Sungjong"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "Inspirit",
+	    "color": "Metal Gold Pearl"
+    },
+    
+    {
+		"name": "Orange Caramel",
+		"img_name": "Orange_Caramel",
+	    "label": "Pledis Entertainment",
+	    "debut": "16-06-2010",
+	    "members": [
+	        {
+	        	"name": "Raina"
+	      	},
+	      	{
+	        	"name": "Nana"
+	      	},
+	      	{
+	        	"name": "Lizzy"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+    
+    {
+		"name": "Miss A",
+		"img_name": "Miss_A",
+	    "label": "JYP Entertainment",
+	    "debut": "",
+	    "members": [
+	        {
+	        	"name": "Fei"
+	      	},
+	      	{
+	        	"name": "Jia"
+	      	},
+	      	{
+	        	"name": "Min"
+	      	},
+	      	{
+	        	"name": "Suzy"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "Say A",
+	    "color": "-"
+    },
+    
+    {
+		"name": "Girl's Day",
+		"img_name": "Girls_Day",
+	    "label": "Dream Tea Entertainment",
+	    "debut": "09-07-2010",
+	    "members": [
+	        {
+	        	"name": "Sojin"
+	      	},
+	      	{
+	        	"name": "Yura"
+	      	},
+	      	{
+	        	"name": "Minah"
+	      	},
+	      	{
+	        	"name": "Hyeri"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "Jihae"
+	      	},
+	      	{
+	        	"name": "Jisun"
+	      	},
+	      	{
+	        	"name": "Jiin"
+	      	}
+	    ],
+	    "fanclub": "DAI5Y",
+	    "color": "-"
+    },
+    
+    {
+		"name": "TEEN TOP",
+		"img_name": "TEEN_TOP",
+	    "label": "TOP Media",
+	    "debut": "09-07-2010",
+	    "members": [
+	        {
+	        	"name": "C.A.P"
+	      	},
+	      	{
+	        	"name": "Chunji"
+	      	},
+	      	{
+	        	"name": "L.Joe"
+	      	},
+	      	{
+	        	"name": "Niel"
+	      	},
+	      	{
+	        	"name": "Ricky"
+	      	},
+	      	{
+	        	"name": "Changjo"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "Angel",
+	    "color": "Pearl Light Lavender"
+    },
+    
+    {
+		"name": "Nine Muses",
+		"img_name": "Nine_Muses",
+	    "label": "Starship Entertainment",
+	    "debut": "12-08-2010",
+	    "members": [
+	        {
+	        	"name": "Hyuna"
+	      	},
+	      	{
+	        	"name": "Euaerin"
+	      	},
+	      	{
+	        	"name": "Sungah"
+	      	},
+	      	{
+	        	"name": "Kyungri"
+	      	},
+	      	{
+	        	"name": "Hyemi"
+	      	},
+	      	{
+	        	"name": "Minha"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "Jaekyung"
+	      	},
+	      	{
+	        	"name": "Bini"
+	      	},
+	      	{
+	        	"name": "Rana"
+	      	},
+	      	{
+	        	"name": "Sem"
+	      	},
+	      	{
+	        	"name": "Eunji"
+	      	},
+	      	{
+	        	"name": "Sera"
+	      	}
+	    ],
+	    "fanclub": "Mine",
+	    "color": "-"
+    },
+    
+    {
+		"name": "GP Basic",
+		"img_name": "GP_Basic",
+	    "label": "Jacyhan International Company",
+	    "debut": "13-08-2010",
+	    "members": [
+	        {
+	        	"name": "Zion"
+	      	},
+	      	{
+	        	"name": "Trinity"
+	      	},
+	      	{
+	        	"name": "Amet"
+	      	},
+	      	{
+	        	"name": "Mui"
+	      	},
+	      	{
+	        	"name": "Janey"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "Hannah"
+	      	},
+	      	{
+	        	"name": "Leah"
+	      	}
+	    ],
+	    "fanclub": "Spade",
+	    "color": "Purple"
+    },
+    
+    {
+		"name": "DMTN",
+		"img_name": "DMTN",
+	    "label": "2Works Entertainment",
+	    "debut": "01-09-2010",
+	    "members": [
+	        {
+	        	"name": "Inati"
+	      	},
+	      	{
+	        	"name": "Dari"
+	      	},
+	      	{
+	        	"name": "Simon"
+	      	},
+	      	{
+	        	"name": "Donglim"
+	      	},
+	      	{
+	        	"name": "Jeesu"
+	      	},
+	      	{
+	        	"name": "Daniel"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "Day Day"
+	      	}
+	    ],
+	    "fanclub": "Dalmate",
+	    "color": "-"
+    },
+    
+    {
+		"name": "Coed School",
+		"img_name": "Coed_School",
+	    "label": "MBK Entertainment",
+	    "debut": "30-09-2010",
+	    "members": [
+	        {
+	        	"name": "-"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "Taewoon"
+	      	},
+	      	{
+	        	"name": "Sungmin"
+	      	},
+	      	{
+	        	"name": "Jungwoo"
+	      	},
+	      	{
+	        	"name": "Hyoyoung"
+	      	},
+	      	{
+	        	"name": "Hyewon"
+	      	},
+	      	{
+	        	"name": "Soomi"
+	      	},
+	      	{
+	        	"name": "Kwanghaeng"
+	      	},
+	      	{
+	        	"name": "Kangho"
+	      	},
+	      	{
+	        	"name": "Chanmi"
+	      	},
+	      	{
+	        	"name": "Noori"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+    
+    {
+		"name": "LED Apple",
+		"img_name": "LED_Apple",
+	    "label": "Starkim Entertainment",
+	    "debut": "07-10-2010",
+	    "members": [
+	        {
+	        	"name": "Youngjun"
+	      	},
+	      	{
+	        	"name": "Hanbyul"
+	      	},
+	      	{
+	        	"name": "Hyoseok"
+	      	},
+	      	{
+	        	"name": "Kwangyeon"
+	      	},
+	      	{
+	        	"name": "Kyu Min"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "Sung Hyun"
+	      	},
+	      	{
+	        	"name": "Min Yong"
+	      	},
+	      	{
+	        	"name": "Jae Hoon"
+	      	},
+	      	{
+	        	"name": "I-OH"
+	      	},
+	      	{
+	        	"name": "Keon U"
+	      	}
+	    ],
+	    "fanclub": "L.E.D.A",
+	    "color": "Pearl Teal"
+    },
+    
+    {
+		"name": "JYJ",
+		"img_name": "JYJ",
+	    "label": "C-Jes Entertainment",
+	    "debut": "14-10-2010",
+	    "members": [
+	        {
+	        	"name": "Jaejoong"
+	      	},
+	      	{
+	        	"name": "Yoochun"
+	      	},
+	      	{
+	        	"name": "Junsu"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "-",
+	    "color": "Pearl Red"
+    },
+    
+    {
+		"name": "Dal Shabet",
+		"img_name": "Dal_Shabet",
+	    "label": "Happy Face Entertainment",
+	    "debut": "04-01-2011",
+	    "members": [
+	        {
+	        	"name": "Serri"
+	      	},
+	      	{
+	        	"name": "Ah Young"
+	      	},
+	      	{
+	        	"name": "Jiyul"
+	      	},
+	      	{
+	        	"name": "Woohee"
+	      	},
+	      	{
+	        	"name": "GaEun"
+	      	},
+	      	{
+	        	"name": "Subin"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "Viki"
+	      	}
+	    ],
+	    "fanclub": "Darling",
+	    "color": "-"
+    },
+    
+    {
+		"name": "Piggy Dolls",
+		"img_name": "Piggy_Dolls",
+	    "label": "Winning InSight",
+	    "debut": "06-01-2011",
+	    "members": [
+	        {
+	        	"name": "Kang Eun Young"
+	      	},
+	      	{
+	        	"name": "Lee Eun Young"
+	      	},
+	      	{
+	        	"name": "Lee Ji Young"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "Min Sun"
+	      	},
+	      	{
+	        	"name": "Ji Yeon"
+	      	},
+	      	{
+	        	"name": "Ji Eun"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+    
+    {
+		"name": "F-ve Dolls",
+		"img_name": "F-ve_Dolls",
+	    "label": "MBK Entertainment",
+	    "debut": "11-02-2011",
+	    "members": [
+	        {
+	        	"name": "Seunghee"
+	      	},
+	      	{
+	        	"name": "Nayeon"
+	      	},
+	      	{
+	        	"name": "Hyoyeong"
+	      	},
+	      	{
+	        	"name": "Yeonkyung"
+	      	},
+	      	{
+	        	"name": "Hyewon"
+	      	},
+	      	{
+	        	"name": "Eunkyo"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "Soomi"
+	      	},
+	      	{
+	        	"name": "Chanmi"
+	      	}
+	    ],
+	    "fanclub": "Dolly",
+	    "color": "Rainbow"
+    },
+    
+    {
+		"name": "CHI CHI",
+		"img_name": "CHI_CHI",
+	    "label": "Trophy Entertainment",
+	    "debut": "18-03-2011",
+	    "members": [
+	        {
+	        	"name": "-"
+	      	}	    
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "Nara"
+	      	},
+	      	{
+	        	"name": "Ji-U"
+	      	},
+	      	{
+	        	"name": "Peach"
+	      	},
+	      	{
+	        	"name": "Boreum"
+	      	},
+	      	{
+	        	"name": "Shine"
+	      	},
+	      	{
+	        	"name": "Semi"
+	      	},
+	      	{
+	        	"name": "A-zi"
+	      	},
+	      	{
+	        	"name": "Sui"
+	      	}
+
+	    ],
+	    "fanclub": "Shy Girl/Boy",
+	    "color": "-"
+    },
+    
+    {
+		"name": "RaNia",
+		"img_name": "RaNia",
+	    "label": "Yedang Entertainment",
+	    "debut": "06-04-2011",
+	    "members": [
+	        {
+	        	"name": "Jooyi"
+	      	},
+	      	{
+	        	"name": "Di"
+	      	},
+	      	{
+	        	"name": "T-ae"
+	      	},
+	      	{
+	        	"name": "Xia"
+	      	},
+	      	{
+	        	"name": "Sharon"
+	      	},
+	      	{
+	        	"name": "Saem"
+	      	},
+	      	{
+	        	"name": "Riko"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "Yijo"
+	      	},
+	      	{
+	        	"name": "Joy"
+	      	}
+	    ],
+	    "fanclub": "A1ST (A-First)",
+	    "color": "-"
+    },
+    
+    {
+		"name": "Brave Girls",
+		"img_name": "Brave_Girls",
+	    "label": "Brave Entertainment",
+	    "debut": "08-04-2011",
+	    "members": [
+	        {
+	        	"name": "Eun-young"
+	      	},
+	      	{
+	        	"name": "Seo-a"
+	      	},
+	      	{
+	        	"name": "Ye-jin"
+	      	},
+	      	{
+	        	"name": "Yoo-jin"
+	      	},
+	      	{
+	        	"name": "Hye-ran"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "FEARLESS",
+	    "color": "-"
+    },
+    
+    {
+		"name": "Block B",
+		"img_name": "Block_B",
+	    "label": "Seven Seasons",
+	    "debut": "14-04-2011",
+	    "members": [
+	        {
+	        	"name": "Zico"
+	      	},
+	      	{
+	        	"name": "Taeil"
+	      	},
+	      	{
+	        	"name": "B-Bomb"
+	      	},
+	      	{
+	        	"name": "Jaehyo"
+	      	},
+	      	{
+	        	"name": "U-Kwon"
+	      	},
+	      	{
+	        	"name": "Kyung"
+	      	},
+	      	{
+	        	"name": "P.O"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "BBC",
+	    "color": "Black and yellow (stripes)"
+    },
+    
+    {
+		"name": "APink",
+		"img_name": "APink",
+	    "label": "A Cube Entertainment",
+	    "debut": "19-04-2011",
+	    "members": [
+	        {
+	        	"name": "Cho-rong"
+	      	},
+	      	{
+	        	"name": "Bo-mi"
+	      	},
+	      	{
+	        	"name": "Eun-ji"
+	      	},
+	      	{
+	        	"name": "Na-eun"
+	      	},
+	      	{
+	        	"name": "Nam-joo"
+	      	},
+	      	{
+	        	"name": "Ha-young"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "Yoo-kyung"
+	      	}
+	    ],
+	    "fanclub": "Pink Panda",
+	    "color": "Pink"
+    },
+    
+    {
+		"name": "B1A4",
+		"img_name": "B1A4",
+	    "label": "WM Entertainment",
+	    "debut": "21-04-2011",
+	    "members": [
+	        {
+	        	"name": "Jinyoung"
+	      	},
+	      	{
+	        	"name": "CNU"
+	      	},
+	      	{
+	        	"name": "Sandeul"
+	      	},
+	      	{
+	        	"name": "Baro"
+	      	},
+	      	{
+	        	"name": "Gongchan"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "BANA",
+	    "color": "Pastel Apple Lime"
+    },
+    
+    {
+		"name": "Blady",
+		"img_name": "Blady",
+	    "label": "Star Planet",
+	    "debut": "05-05-2011",
+	    "members": [
+	        {
+	        	"name": "Kiroo"
+	      	},
+	      	{
+	        	"name": "Tina"
+	      	},
+	      	{
+	        	"name": "Dayoung"
+	      	},
+	      	{
+	        	"name": "SooJin"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "Darae"
+	      	},
+	      	{
+	        	"name": "Bunhong"
+	      	},
+	      	{
+	        	"name": "Sun Young"
+	      	},
+	      	{
+	        	"name": "Coco"
+	      	},
+	      	{
+	        	"name": "Kangyoon"
+	      	},
+	      	{
+	        	"name": "YeJi"
+	      	}
+	    ],
+	    "fanclub": "Hi Ade",
+	    "color": "-"
+    },
+    
+    {
+		"name": "Boyfriend",
+		"img_name": "Boyfriend",
+	    "label": "Starship Entertainment",
+	    "debut": "26-05-2011",
+	    "members": [
+	        {
+	        	"name": "Donghyun"
+	      	},
+	      	{
+	        	"name": "Hyunseong"
+	      	},
+	      	{
+	        	"name": "Jeongmin"
+	      	},
+	      	{
+	        	"name": "Youngmin"
+	      	},
+	      	{
+	        	"name": "Kwangmin"
+	      	},
+	      	{
+	        	"name": "Minwoo"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "Best Friend",
+	    "color": "-"
+    },
+    
+    {
+		"name": "N-Train",
+		"img_name": "N-Train",
+	    "label": "Media Line",
+	    "debut": "27-05-2011",
+	    "members": [
+	        {
+	        	"name": "Jung Kyun"
+	      	},
+	      	{
+	        	"name": "Seung Hyun"
+	      	},
+	      	{
+	        	"name": "Soul J"
+	      	},
+	      	{
+	        	"name": "Yu Jin"
+	      	},
+	      	{
+	        	"name": "Sang Woo"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "Eternal",
+	    "color": "-"
+    },
+    
+    {
+		"name": "Chocolat",
+		"img_name": "Chocolat",
+	    "label": "Paramount Music",
+	    "debut": "16-08-2011",
+	    "members": [
+	        {
+	        	"name": "Min Soa"
+	      	},
+	      	{
+	        	"name": "Juliane"
+	      	},
+	      	{
+	        	"name": "Tia"
+	      	},
+	      	{
+	        	"name": "Melanie"
+	      	},
+	      	{
+	        	"name": "Lori"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "Jaeyoon"
+	      	}
+	    ],
+	    "fanclub": "Chocolatier",
+	    "color": "-"
+    },
+    
+    {
+		"name": "Stellar",
+		"img_name": "Stellar",
+	    "label": "Top Class Entertainment",
+	    "debut": "23-08-2011",
+	    "members": [
+	        {
+	        	"name": "Gayoung"
+	      	},
+	      	{
+	        	"name": "Minhee"
+	      	},
+	      	{
+	        	"name": "Hyoeun"
+	      	},
+	      	{
+	        	"name": "Jun Yool"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "Seul"
+	      	},
+	      	{
+	        	"name": "JoA"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+    
+    {
+		"name": "C-Real",
+		"img_name": "C-Real",
+	    "label": "NAP Entertainment",
+	    "debut": "12-10-2011",
+	    "members": [
+	        {
+	        	"name": "Chemi"
+	      	},
+	      	{
+	        	"name": "Effie"
+	      	},
+	      	{
+	        	"name": "Ann J"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "Re Dee"
+	      	},
+	      	{
+	        	"name": "Lenny"
+	      	}
+	    ],
+	    "fanclub": "C-REALing",
+	    "color": "-"
+    },
+    
+    {
+		"name": "M.I.B",
+		"img_name": "M.I.B",
+	    "label": "Jungle Entertainment",
+	    "debut": "25-10-2011",
+	    "members": [
+	        {
+	        	"name": "5Zic"
+	      	},
+	      	{
+	        	"name": "Cream"
+	      	},
+	      	{
+	        	"name": "SIMS"
+	      	},
+	      	{
+	        	"name": "KangNam"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "Buster",
+	    "color": "-"
+    },
+    
+    {
+		"name": "MYNAME",
+		"img_name": "MYNAME",
+	    "label": "H2 Media",
+	    "debut": "28-10-2011",
+	    "members": [
+	        {
+	        	"name": "Gun Woo"
+	      	},
+	      	{
+	        	"name": "InSoo"
+	      	},
+	      	{
+	        	"name": "SeYong"
+	      	},
+	      	{
+	        	"name": "JunQ"
+	      	},
+	      	{
+	        	"name": "ChaeJin"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "MYgirl",
+	    "color": "-"
+    },
+    
+    {
+		"name": "AA",
+		"img_name": "AA",
+	    "label": "Well Made Star Media",
+	    "debut": "03-11-2011",
+	    "members": [
+	        {
+	        	"name": "Woosang"
+	      	},
+	      	{
+	        	"name": "Aoora"
+	      	},
+	      	{
+	        	"name": "Kimchi"
+	      	},
+	      	{
+	        	"name": "Hoik"
+	      	},
+	      	{
+	        	"name": "Jinhong"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "Joowon"
+	      	}
+	    ],
+	    "fanclub": "W",
+	    "color": "-"
+    },
+    
+    {
+		"name": "SPICA",
+		"img_name": "SPICA",
+	    "label": "B2M Entertainment",
+	    "debut": "10-01-2012",
+	    "members": [
+	        {
+	        	"name": "Boa"
+	      	},
+	      	{
+	        	"name": "Juhyun"
+	      	},
+	      	{
+	        	"name": "Narea"
+	      	},
+	      	{
+	        	"name": "Jiwon"
+	      	},
+	      	{
+	        	"name": "Bohyung"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "Mercury",
+	    "color": "-"
+    },
+    
+    {
+		"name": "B.A.P",
+		"img_name": "B.A.P",
+	    "label": "TS Entertainment",
+	    "debut": "26-01-2012",
+	    "members": [
+	        {
+	        	"name": "Yong Guk"
+	      	},
+	      	{
+	        	"name": "Him Chan"
+	      	},
+	      	{
+	        	"name": "Dae Hyun"
+	      	},
+	      	{
+	        	"name": "Young Jae"
+	      	},
+	      	{
+	        	"name": "Jong Up"
+	      	},
+	      	{
+	        	"name": "Zelo"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "Baby",
+	    "color": "Spring Green"
+    },
+    
+    {
+		"name": "EXID",
+		"img_name": "EXID",
+	    "label": "Yedang Entertainment",
+	    "debut": "16-02-2012",
+	    "members": [
+	        {
+	        	"name": "Solji"
+	      	},
+	      	{
+	        	"name": "LE"
+	      	},
+	      	{
+	        	"name": "Hani"
+	      	},
+	      	{
+	        	"name": "Hyerin"
+	      	},
+	      	{
+	        	"name": "Junghwa"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "Hyeyeon"
+	      	},
+	      	{
+	        	"name": "UJi"
+	      	},
+	      	{
+	        	"name": "Haeryung"
+	      	}
+	    ],
+	    "fanclub": "L.E.G.O",
+	    "color": "-"
+    },
+    
+    {
+		"name": "NU'EST",
+		"img_name": "NU'EST",
+	    "label": "Pledis Entertainment",
+	    "debut": "15-03-2012",
+	    "members": [
+	        {
+	        	"name": "JR"
+	      	},
+	      	{
+	        	"name": "Aron"
+	      	},
+	      	{
+	        	"name": "Baekho"
+	      	},
+	      	{
+	        	"name": "Minhyun"
+	      	},
+	      	{
+	        	"name": "Ren"
+	      	},
+	      	{
+	        	"name": "Jason (NU'EST-M)"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "L.O.Λ.E (Love)",
+	    "color": "Neon Pink"
+    },
+    
+    {
+		"name": "BTOB",
+		"img_name": "BTOB",
+	    "label": "Cube Entertainment",
+	    "debut": "21-03-2012",
+	    "members": [
+	        {
+	        	"name": "Eunkwang"
+	      	},
+	      	{
+	        	"name": "Minhyuk"
+	      	},
+	      	{
+	        	"name": "Changsub"
+	      	},
+	      	{
+	        	"name": "Hyunsik"
+	      	},
+	      	{
+	        	"name": "Peniel"
+	      	},
+	      	{
+	        	"name": "Il-Hoon"
+	      	},
+	      	{
+	        	"name": "Sungjae"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "Melody",
+	    "color": "Slow Blue"
+    },
+    
+    {
+		"name": "VIVID",
+		"img_name": "VIVID",
+	    "label": "Ntree Entertainment",
+	    "debut": "28-03-2012",
+	    "members": [
+	        {
+	        	"name": "Sung Hee"
+	      	},
+	      	{
+	        	"name": "Showking"
+	      	},
+	      	{
+	        	"name": "S2"
+	      	},
+	      	{
+	        	"name": "Seed"
+	      	},
+	      	{
+	        	"name": "Ah Reum"
+	      	},
+	      	{
+	        	"name": "A Yeong"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+    
+    {
+		"name": "EXO",
+		"img_name": "EXO",
+	    "label": "SM Entertainment",
+	    "debut": "09-04-2012",
+	    "members": [
+	        {
+	        	"name": "Suho"
+	      	},
+	      	{
+	        	"name": "Baekhyun"
+	      	},
+	      	{
+	        	"name": "Chanyeol"
+	      	},
+	      	{
+	        	"name": "D.O."
+	      	},
+	      	{
+	        	"name": "Kai"
+	      	},
+	      	{
+	        	"name": "Sehun"
+	      	},
+	      	{
+	        	"name": "Xiumin"
+	      	},
+	      	{
+	        	"name": "Lay"
+	      	},
+	      	{
+	        	"name": "Chen"
+	      	},
+	      	{
+	        	"name": "Tao"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "Kris"
+	      	},
+	      	{
+	        	"name": "Luhan"
+	      	}
+	    ],
+	    "fanclub": "EXO-L",
+	    "color": "-"
+    },
+    
+    {
+		"name": "Hello Venus",
+		"img_name": "Hello_Venus",
+	    "label": "Pledis Entertainment",
+	    "debut": "05-05-2012",
+	    "members": [
+	        {
+	        	"name": "Alice"
+	      	},
+	      	{
+	        	"name": "Nara"
+	      	},
+	      	{
+	        	"name": "Lime"
+	      	},
+	      	{
+	        	"name": "Yooyoung"
+	      	},
+	      	{
+	        	"name": "Seoyoung"
+	      	},
+	      	{
+	        	"name": "Summer"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "Yoo Ara"
+	      	},
+	      	{
+	        	"name": "Yoonjo"
+	      	}
+	    ],
+	    "fanclub": "Hello Cupid",
+	    "color": "Lime Green"
+    },
+    
+    {
+		"name": "She'z",
+		"img_name": "She'z",
+	    "label": "Line Entertainment",
+	    "debut": "18-05-2012",
+	    "members": [
+	        {
+	        	"name": "Jinah"
+	      	},
+	      	{
+	        	"name": "Taeyeon"
+	      	},
+	      	{
+	        	"name": "Seyeon"
+	      	},
+	      	{
+	        	"name": "Jiyoung"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "Holic",
+	    "color": "-"
+    },
+    
+    {
+		"name": "Sunny Days",
+		"img_name": "Sunny_Days",
+	    "label": "Haeun Entertainment",
+	    "debut": "18-05-2012",
+	    "members": [
+	        {
+	        	"name": "Sunkyung"
+	      	},
+	      	{
+	        	"name": "Jihee"
+	      	},
+	      	{
+	        	"name": "Soohyun"
+	      	},
+	      	{
+	        	"name": "Seoyeon"
+	      	},
+	      	{
+	        	"name": "SooJun"
+	      	},
+	      	{
+	        	"name": "Yoon"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "Minji"
+	      	},
+	      	{
+	        	"name": "BiChen"
+	      	},
+	      	{
+	        	"name": "Gyuhee"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+    
+    {
+		"name": "VIXX",
+		"img_name": "VIXX",
+	    "label": "Jellyfish Entertainment",
+	    "debut": "24-05-2012",
+	    "members": [
+	        {
+	        	"name": "N"
+	      	},
+	      	{
+	        	"name": "Leo"
+	      	},
+	      	{
+	        	"name": "Ken"
+	      	},
+	      	{
+	        	"name": "Ravi"
+	      	},
+	      	{
+	        	"name": "Hongbin"
+	      	},
+	      	{
+	        	"name": "Hyuk"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "STARLIGHT",
+	    "color": "-"
+    },
+    
+    {
+		"name": "A-JAX",
+		"img_name": "A-JAX",
+	    "label": "DSP Media",
+	    "debut": "01-06-2012",
+	    "members": [
+	        {
+	        	"name": "Hyeongkon"
+	      	},
+	      	{
+	        	"name": "Jaehyung"
+	      	},
+	      	{
+	        	"name": "Hyojun"
+	      	},
+	      	{
+	        	"name": "Yunyoung"
+	      	},
+	      	{
+	        	"name": "Sungmin"
+	      	},
+	      	{
+	        	"name": "Seungjin"
+	      	},
+	      	{
+	        	"name": "Seungyub"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "A-Light",
+	    "color": "-"
+    },
+    
+    {
+		"name": "CROSS GENE",
+		"img_name": "CROSS_GENE",
+	    "label": "Amuse Korea",
+	    "debut": "08-06-2012",
+	    "members": [
+	        {
+	        	"name": "Takuya"
+	      	},
+	      	{
+	        	"name": "Shin"
+	      	},
+	      	{
+	        	"name": "Seyoung"
+	      	},
+	      	{
+	        	"name": "Casper"
+	      	},
+	      	{
+	        	"name": "Sangmin"
+	      	},
+	      	{
+	        	"name": "Yongseok"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "J.G"
+	      	}
+	    ],
+	    "fanclub": "CROSS GENE PLANET",
+	    "color": "?"
+    },
+    
+    {
+		"name": "BIKINY",
+		"img_name": "BIKINY",
+	    "label": "Star Factory",
+	    "debut": "14-06-2012",
+	    "members": [
+	        {
+	        	"name": "Jae In"
+	      	},
+	      	{
+	        	"name": "Haei"
+	      	},
+	      	{
+	        	"name": "LaLa"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "Yoa"
+	      	},
+	      	{
+	        	"name": "Mizi"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+    
+    {
+		"name": "Flashe",
+		"img_name": "Flashe",
+	    "label": "Flash Entertainment",
+	    "debut": "04-07-2012",
+	    "members": [
+	        {
+	        	"name": "SongHee"
+	      	},
+	      	{
+	        	"name": "NaRae"
+	      	},
+	      	{
+	        	"name": "SeolHee"
+	      	},
+	      	{
+	        	"name": "ChoA"
+	      	},
+	      	{
+	        	"name": "GaEul"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+    
+    {
+		"name": "BIGSTAR/Big Star",
+		"img_name": "Big_Star",
+	    "label": "Brave Entertainment",
+	    "debut": "12-07-2012",
+	    "members": [
+	        {
+	        	"name": "Feeldog"
+	      	},
+	      	{
+	        	"name": "Baram"
+	      	},
+	      	{
+	        	"name": "Raehwan"
+	      	},
+	      	{
+	        	"name": "Sunghak"
+	      	},
+	      	{
+	        	"name": "Jude"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "Only One",
+	    "color": "-"
+    },
+    
+    {
+		"name": "GLAM",
+		"img_name": "GLAM",
+	    "label": "Big Hit Entertainment",
+	    "debut": "16-07-2012",
+	    "members": [
+	        {
+	        	"name": "Jiyeon"
+	      	},
+	      	{
+	        	"name": "Zinni"
+	      	},
+	      	{
+	        	"name": "Dahee"
+	      	},
+	      	{
+	        	"name": "Miso"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "Trinity"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+    
+    {
+		"name": "CRAYON POP",
+		"img_name": "CRAYON_POP",
+	    "label": "Chrome Entertainment",
+	    "debut": "18-07-2012",
+	    "members": [
+	        {
+	        	"name": "Geummi"
+	      	},
+	      	{
+	        	"name": "Ellin"
+	      	},
+	      	{
+	        	"name": "Choa"
+	      	},
+	      	{
+	        	"name": "Way"
+	      	},
+	      	{
+	        	"name": "Soyul"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "-",
+	    "color": "Apple Green"
+    },
+    
+    {
+		"name": "C-Clown",
+		"img_name": "C-Clown",
+	    "label": "Yedang Entertainment",
+	    "debut": "19-07-2012",
+	    "members": [
+	        {
+	        	"name": "Rome"
+	      	},
+	      	{
+	        	"name": "Siwoo"
+	      	},
+	      	{
+	        	"name": "Ray"
+	      	},
+	      	{
+	        	"name": "Kang Jun"
+	      	},
+	      	{
+	        	"name": "T.K"
+	      	},
+	      	{
+	        	"name": "Maru"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "Crown",
+	    "color": "Pearl Forest Green"
+    },
+    
+    {
+		"name": "TAHITI",
+		"img_name": "TAHITI",
+	    "label": "Dream Star Entertainment",
+	    "debut": "24-07-2012",
+	    "members": [
+	        {
+	        	"name": "Miso"
+	      	},
+	      	{
+	        	"name": "Minjae"
+	      	},
+	      	{
+	        	"name": "Jerry"
+	      	},
+	      	{
+	        	"name": "Jisoo"
+	      	},
+	      	{
+	        	"name": "Ari"
+	      	},
+	      	{
+	        	"name": "Junbin"
+	      	},
+	      	{
+	        	"name": "Jin"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "EJ"
+	      	},
+	      	{
+	        	"name": "Dasom"
+	      	},
+	      	{
+	        	"name": "Ye Eun"
+	      	}
+	    ],
+	    "fanclub": "-",
+	    "color": "Black Pearl"
+    },
+    
+    {
+		"name": "JEVICE",
+		"img_name": "JEVICE",
+	    "label": "Dream Tea Entertainment",
+	    "debut": "27-07-2012",
+	    "members": [
+	        {
+	        	"name": "Hana"
+	      	},
+	      	{
+	        	"name": "Juri"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "GEMINIS",
+	    "color": "?"
+    },
+    
+    {
+		"name": "AOA",
+		"img_name": "AOA",
+	    "label": "FNC Entertainment",
+	    "debut": "30-07-2012",
+	    "members": [
+	        {
+	        	"name": "Choa"
+	      	},
+	      	{
+	        	"name": "Jimin"
+	      	},
+	      	{
+	        	"name": "Yuna"
+	      	},
+	      	{
+	        	"name": "Hyejeong"
+	      	},
+	      	{
+	        	"name": "Mina"
+	      	},
+	      	{
+	        	"name": "Seolhyun"
+	      	},
+	      	{
+	        	"name": "Chanmi"
+	      	},
+	      	{
+	        	"name": "Youkyung"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "Elvis",
+	    "color": "-"
+    },
+    
+    {
+		"name": "D-UNIT",
+		"img_name": "D-UNIT",
+	    "label": "D Business",
+	    "debut": "02-08-2012",
+	    "members": [
+	        {
+	        	"name": "Ram"
+	      	},
+	      	{
+	        	"name": "Zin"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "JNey"
+	      	},
+	      	{
+	        	"name": "UJin"
+	      	}
+	    ],
+	    "fanclub": "Unique",
+	    "color": "-"
+    },
+    
+    {
+		"name": "TASTY",
+		"img_name": "TASTY",
+	    "label": "Woollim Entertainment",
+	    "debut": "09-08-2012",
+	    "members": [
+	        {
+	        	"name": "Daeryong"
+	      	},
+	      	{
+	        	"name": "Soryong"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "2wings",
+	    "color": "-"
+    },
+    
+    {
+		"name": "EvoL",
+		"img_name": "EvoL",
+	    "label": "Stardom Entertainment",
+	    "debut": "10-08-2012",
+	    "members": [
+	        {
+	        	"name": "Say"
+	      	},
+	      	{
+	        	"name": "Jucy"
+	      	},
+	      	{
+	        	"name": "Hayana"
+	      	},
+	      	{
+	        	"name": "Yull"
+	      	},
+	      	{
+	        	"name": "J-Da"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "Vollers",
+	    "color": "-"
+    },
+    
+    {
+		"name": "Phantom",
+		"img_name": "Phantom",
+	    "label": "WA Entertainment",
+	    "debut": "16-08-2012",
+	    "members": [
+	        {
+	        	"name": "Kiggen"
+	      	},
+	      	{
+	        	"name": "Sanchez"
+	      	},
+	      	{
+	        	"name": "Hanhae"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+    
+    {
+		"name": "Skarf",
+		"img_name": "Skarf",
+	    "label": "Alpha Entertainment",
+	    "debut": "16-08-2012",
+	    "members": [
+	        {
+	        	"name": "Tasha"
+	      	},
+	      	{
+	        	"name": "Jenny"
+	      	},
+	      	{
+	        	"name": "JooA"
+	      	},
+	      	{
+	        	"name": "Hana"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "Sol"
+	      	},
+	      	{
+	        	"name": "Ferlyn"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+    
+    {
+		"name": "TWO X",
+		"img_name": "TWO_X",
+	    "label": "J.Tune Camp",
+	    "debut": "16-08-2012",
+	    "members": [
+	        {
+	        	"name": "Jiyou"
+	      	},
+	      	{
+	        	"name": "Eun"
+	      	},
+	      	{
+	        	"name": "Minjoo"
+	      	},
+	      	{
+	        	"name": "Surin"
+	      	},
+	      	{
+	        	"name": "Eunyoung"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "Doubling",
+	    "color": "-"
+    },
+    
+    {
+		"name": "NewUs",
+		"img_name": "NewUs",
+	    "label": "Star Cubic Entertainment",
+	    "debut": "17-08-2012",
+	    "members": [
+	        {
+	        	"name": "Jion"
+	      	},
+	      	{
+	        	"name": "Hooni"
+	      	},
+	      	{
+	        	"name": "Hyunmo"
+	      	},
+	      	{
+	        	"name": "Sang Wook"
+	      	},
+	      	{
+	        	"name": "Seoin"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "Sihyung"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+    
+    {
+		"name": "Tiny-G",
+		"img_name": "Tiny-G",
+	    "label": "GNG Productions",
+	    "debut": "23-08-2012",
+	    "members": [
+	        {
+	        	"name": "Dohee"
+	      	},
+	      	{
+	        	"name": "J.Min"
+	      	},
+	      	{
+	        	"name": "Mint"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "Myeong Ji"
+	      	}
+	    ],
+	    "fanclub": "MINI-ME",
+	    "color": "-"
+    },
+    
+    {
+		"name": "Fiestar",
+		"img_name": "Fiestar",
+	    "label": "LOEN Entertainment",
+	    "debut": "31-08-2012",
+	    "members": [
+	        {
+	        	"name": "Jei"
+	      	},
+	      	{
+	        	"name": "Cao Lu"
+	      	},
+	      	{
+	        	"name": "Linzy"
+	      	},
+	      	{
+	        	"name": "Hyemi"
+	      	},
+	      	{
+	        	"name": "Yezi"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "Cheska"
+	      	}
+	    ],
+	    "fanclub": "Lets",
+	    "color": "-"
+    },
+    
+    {
+		"name": "24K",
+		"img_name": "24K",
+	    "label": "Choeun Entertainment",
+	    "debut": "06-09-2012",
+	    "members": [
+	        {
+	        	"name": "Cory"
+	      	},
+	      	{
+	        	"name": "SeokJun"
+	      	},
+	      	{
+	        	"name": "Byungho"
+	      	},
+	      	{
+	        	"name": "SungOh"
+	      	},
+	      	{
+	        	"name": "Kisu"
+	      	},
+	      	{
+	        	"name": "Daell"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+    
+    {
+		"name": "100%",
+		"img_name": "100percent",
+	    "label": "TOP Media",
+	    "debut": "18-09-2012",
+	    "members": [
+	        {
+	        	"name": "Min-woo"
+	      	},
+	      	{
+	        	"name": "Rokhyun"
+	      	},
+	      	{
+	        	"name": "Jonghwan"
+	      	},
+	      	{
+	        	"name": "Chanyong"
+	      	},
+	      	{
+	        	"name": "Changbum"
+	      	},
+	      	{
+	        	"name": "Hyukjin"
+	      	},
+	      	{
+	        	"name": "Sanghoon"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "Perfection",
+	    "color": "-"
+    },
+    
+    {
+		"name": "OFFROAD",
+		"img_name": "OFFROAD",
+	    "label": "Kairos Entertainment",
+	    "debut": "19-09-2012",
+	    "members": [
+	        {
+	        	"name": "G.I"
+	      	},
+	      	{
+	        	"name": "Kino"
+	      	},
+	      	{
+	        	"name": "Rio"
+	      	},
+	      	{
+	        	"name": "Si Hwan"
+	      	},
+	      	{
+	        	"name": "Seung Hun"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+    
+    {
+		"name": "BBde Girl",
+		"img_name": "BBde_Girl",
+	    "label": "Bigstar Entertainment",
+	    "debut": "20-09-2012",
+	    "members": [
+	        {
+	        	"name": "Sonhana"
+	      	},
+	      	{
+	        	"name": "Li-V"
+	      	},
+	      	{
+	        	"name": "Christine"
+	      	},
+	      	{
+	        	"name": "E-Sea"
+	      	},
+	      	{
+	        	"name": "Lyulin"
+	      	},
+	      	{
+	        	"name": "Nana"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+    
+    {
+		"name": "Lunafly",
+		"img_name": "Lunafly",
+	    "label": "Nega Network",
+	    "debut": "27-09-2012",
+	    "members": [
+	        {
+	        	"name": "Sam"
+	      	},
+	      	{
+	        	"name": "Teo"
+	      	},
+	      	{
+	        	"name": "Yun"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "Lukie",
+	    "color": "-"
+    },
+    
+    {
+		"name": "Mr. Mr.",
+		"img_name": "Mr._Mr.",
+	    "label": "Wining InSight",
+	    "debut": "04-10-2012",
+	    "members": [
+	        {
+	        	"name": "Jin"
+	      	},
+	      	{
+	        	"name": "Doyeon"
+	      	},
+	      	{
+	        	"name": "Changjae"
+	      	},
+	      	{
+	        	"name": "Tey"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "Jiwon"
+	      	},
+	      	{
+	        	"name": "Hon"
+	      	},
+	      	{
+	        	"name": "Ryu"
+	      	}
+	    ],
+	    "fanclub": "Miso",
+	    "color": "-"
+    },
+    
+    {
+		"name": "15&",
+		"img_name": "15&",
+	    "label": "JYP Entertainment",
+	    "debut": "05-10-2012",
+	    "members": [
+	        {
+	        	"name": "Jimin"
+	      	},
+	      	{
+	        	"name": "Yerin"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+    
+    {
+		"name": "A.Cian",
+		"img_name": "A.Cian",
+	    "label": "ISS Entertainment",
+	    "debut": "05-10-2012",
+	    "members": [
+	        {
+	        	"name": "Hidden"
+	      	},
+	      	{
+	        	"name": "Chan Hee"
+	      	},
+	      	{
+	        	"name": "Jung Sang"
+	      	},
+	      	{
+	        	"name": "Jin.O"
+	      	},
+	      	{
+	        	"name": "Sang Hyun"
+	      	},
+	      	{
+	        	"name": "U Tae"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "Seul Gi"
+	      	},
+	      	{
+	        	"name": "Se Hee"
+	      	},
+	      	{
+	        	"name": "Crooge"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+    
+    {
+		"name": "TOXIC",
+		"img_name": "TOXIC",
+	    "label": "Rainbow Bridge Agency",
+	    "debut": "12-10-2012",
+	    "members": [
+	        {
+	        	"name": "Jung Woo"
+	      	},
+	      	{
+	        	"name": "Seulong"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+    
+    {
+		"name": "Queen B'Z",
+		"img_name": "Queen_B'Z",
+	    "label": "JS Entertainment",
+	    "debut": "16-10-2012",
+	    "members": [
+	        {
+	        	"name": "MaeAhRi"
+	      	},
+	      	{
+	        	"name": "Seul Yi"
+	      	},
+	      	{
+	        	"name": "Jini"
+	      	},
+	      	{
+	        	"name": "Aram"
+	      	},
+	      	{
+	        	"name": "Rumi"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+    
+    {
+		"name": "Wonder Boyz",
+		"img_name": "Wonder_Boyz",
+	    "label": "102 Entertainment",
+	    "debut": "16-10-2012",
+	    "members": [
+	        {
+	        	"name": "Bak Chi Gi"
+	      	},
+	      	{
+	        	"name": "Young Boy"
+	      	},
+	      	{
+	        	"name": "K"
+	      	},
+	      	{
+	        	"name": "Master One"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+    
+    {
+		"name": "EXCITE",
+		"img_name": "EXCITE",
+	    "label": "Penta Entertainment",
+	    "debut": "22-10-2012",
+	    "members": [
+	        {
+	        	"name": "Tae G"
+	      	},
+	      	{
+	        	"name": "Seungwook"
+	      	},
+	      	{
+	        	"name": "Minhoo"
+	      	},
+	      	{
+	        	"name": "Sihyuk"
+	      	},
+	      	{
+	        	"name": "Beat"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+    
+    {
+		"name": "A-Prince",
+		"img_name": "A-Prince",
+	    "label": "New Planet Entertainment",
+	    "debut": "06-11-2012",
+	    "members": [
+	        {
+	        	"name": "Min Hyuk"
+	      	},
+	      	{
+	        	"name": "Si Yoon"
+	      	},
+	      	{
+	        	"name": "Seung Jun"
+	      	},
+	      	{
+	        	"name": "Sung Won"
+	      	},
+	      	{
+	        	"name": "Woo Bin"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "A-Land",
+	    "color": "-"
+    },
+    
+    {
+		"name": "The Seeya",
+		"img_name": "The_Seeya",
+	    "label": "MBK Entertainment",
+	    "debut": "11-11-2012",
+	    "members": [
+	        {
+	        	"name": "Minkyeong"
+	      	},
+	      	{
+	        	"name": "Yeongjoo"
+	      	},
+	      	{
+	        	"name": "Yoojin"
+	      	},
+	      	{
+	        	"name": "Yeonkyeong"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "SeeYa With You",
+	    "color": "Pearl Light Pink"
+    },
+    
+    {
+		"name": "Airplane",
+		"img_name": "Airplane",
+	    "label": "Plane Entertainment",
+	    "debut": "04-01-2013",
+	    "members": [
+	        {
+	        	"name": "mNine"
+	      	},
+	      	{
+	        	"name": "MeKid"
+	      	},
+	      	{
+	        	"name": "Bogiri"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+    
+    {
+		"name": "SPEED",
+		"img_name": "SPEED",
+	    "label": "MBK Entertainment",
+	    "debut": "07-01-2013",
+	    "members": [
+	        {
+	        	"name": "Jungwoo"
+	      	},
+	      	{
+	        	"name": "Taewoon"
+	      	},
+	      	{
+	        	"name": "Yoohwan"
+	      	},
+	      	{
+	        	"name": "Taeha"
+	      	},
+	      	{
+	        	"name": "Jongkook"
+	      	},
+	      	{
+	        	"name": "Sejoon"
+	      	},
+	      	{
+	        	"name": "Sungmin"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "Kwanghaeng"
+	      	},
+	      	{
+	        	"name": "Kangho"
+	      	},
+	      	{
+	        	"name": "Noori"
+	      	}
+	    ],
+	    "fanclub": "DEEPS",
+	    "color": "-"
+    },
+    
+    {
+		"name": "Egobomb",
+		"img_name": "Egobomb",
+	    "label": "Sniper Sound",
+	    "debut": "09-01-2013",
+	    "members": [
+	        {
+	        	"name": "Eul"
+	      	},
+	      	{
+	        	"name": "Kwan Wu"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+    
+    {
+		"name": "Pascol",
+		"img_name": "Pascol",
+	    "label": "Tip Top Entertainment",
+	    "debut": "10-01-2013",
+	    "members": [
+	        {
+	        	"name": "J Sun"
+	      	},
+	      	{
+	        	"name": "Moon Bin"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "Yua"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+    
+    {
+		"name": "BPPOP",
+		"img_name": "BPPOP",
+	    "label": "BP Story Entertainment",
+	    "debut": "16-01-2013",
+	    "members": [
+	        {
+	        	"name": "Pyun Su Ji"
+	      	},
+	      	{
+	        	"name": "Jane"
+	      	},
+	      	{
+	        	"name": "SiYoo"
+	      	},
+	      	{
+	        	"name": "In Kyung"
+	      	},
+	      	{
+	        	"name": "YooJin"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+    
+    {
+		"name": "NEVER MIND",
+		"img_name": "NEVER_MIND",
+	    "label": "Toeast Music",
+	    "debut": "28-01-2013",
+	    "members": [
+	        {
+	        	"name": "G-Hoon"
+	      	},
+	      	{
+	        	"name": "Chang Ha"
+	      	},
+	      	{
+	        	"name": "Ino"
+	      	},
+	      	{
+	        	"name": "G-One"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+    
+    {
+		"name": "Purplay",
+		"img_name": "Purplay",
+	    "label": "Purplei Entertainment",
+	    "debut": "07-02-2013",
+	    "members": [
+	        {
+	        	"name": "Woomi"
+	      	},
+	      	{
+	        	"name": "Jiyo"
+	      	},
+	      	{
+	        	"name": "Eeple"
+	      	},
+	      	{
+	        	"name": "Seolha"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+    
+    {
+		"name": "ICONIZE",
+		"img_name": "ICONIZE",
+	    "label": "Nekki Entertainment",
+	    "debut": "25-02-201",
+	    "members": [
+	        {
+	        	"name": "Hyun"
+	      	},
+	      	{
+	        	"name": "Young Bin"
+	      	},
+	      	{
+	        	"name": "Hoon"
+	      	},
+	      	{
+	        	"name": "Bum Jin"
+	      	},
+	      	{
+	        	"name": "Du Ryeot"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+    
+    {
+		"name": "LADIES' CODE",
+		"img_name": "LADIES'_CODE",
+	    "label": "Polaris Entertainment",
+	    "debut": "07-03-2013",
+	    "members": [
+	        {
+	        	"name": "Ashley"
+	      	},
+	      	{
+	        	"name": "Sojung"
+	      	},
+	      	{
+	        	"name": "Zuny"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "EunB"
+	      	},
+	      	{
+	        	"name": "RiSe"
+	      	}
+	    ],
+	    "fanclub": "Lavely",
+	    "color": "-"
+    },
+    
+    {
+		"name": "Delight",
+		"img_name": "Delight",
+	    "label": "Bros Media",
+	    "debut": "02-04-2013",
+	    "members": [
+	        {
+	        	"name": "Yeon Du"
+	      	},
+	      	{
+	        	"name": "Eun Sae"
+	      	},
+	      	{
+	        	"name": "Tae Hee"
+	      	},
+	      	{
+	        	"name": "Su Min"
+	      	},
+	      	{
+	        	"name": "Jae-Won"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+    
+    {
+		"name": "GI/Global Icon",
+		"img_name": "Global_Icon",
+	    "label": "Simtong Entertainment",
+	    "debut": "03-04-2013",
+	    "members": [
+	        {
+	        	"name": "HaYun"
+	      	},
+	      	{
+	        	"name": "OneKet"
+	      	},
+	      	{
+	        	"name": "EunJi"
+	      	},
+	      	{
+	        	"name": "AI"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "Aram"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+    
+    {
+		"name": "PURE",
+		"img_name": "PURE",
+	    "label": "Pure Entertainment",
+	    "debut": "05-04-2013",
+	    "members": [
+	        {
+	        	"name": "Jimin"
+	      	},
+	      	{
+	        	"name": "Younghoo"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "Soohyuk"
+	      	},
+	      	{
+	        	"name": "Chanhwee"
+	      	},
+	      	{
+	        	"name": "Jungbin"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+    
+    {
+		"name": "HISTORY",
+		"img_name": "HISTORY",
+	    "label": "LOEN Entertainment",
+	    "debut": "26-04-2013",
+	    "members": [
+	        {
+	        	"name": "Kyungil"
+	      	},
+	      	{
+	        	"name": "Dokyun"
+	      	},
+	      	{
+	        	"name": "Sihyoung"
+	      	},
+	      	{
+	        	"name": "Jaeho"
+	      	},
+	      	{
+	        	"name": "Yijeong"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "Storia",
+	    "color": "-"
+    },
+    
+    {
+		"name": "LC9",
+		"img_name": "LC9",
+	    "label": "Nega Network",
+	    "debut": "05-05-2013",
+	    "members": [
+	        {
+	        	"name": "Rasa"
+	      	},
+	      	{
+	        	"name": "J-Hyo"
+	      	},
+	      	{
+	        	"name": "King"
+	      	},
+	      	{
+	        	"name": "Jun"
+	      	},
+	      	{
+	        	"name": "AO"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "E.Den"
+	      	}
+	    ],
+	    "fanclub": "Love Beat",
+	    "color": "-"
+    },
+    
+    {
+		"name": "Boys Republic",
+		"img_name": "Boys_Republic",
+	    "label": "Universal Music",
+	    "debut": "05-06-2013",
+	    "members": [
+	        {
+	        	"name": "Onejunn"
+	      	},
+	      	{
+	        	"name": "Sunwoo"
+	      	},
+	      	{
+	        	"name": "Sungjun"
+	      	},
+	      	{
+	        	"name": "Minsu"
+	      	},
+	      	{
+	        	"name": "Suwoong"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "Royal Family",
+	    "color": "-"
+    },
+    
+    {
+		"name": "BTS/Bangtan Boys",
+		"img_name": "BTS",
+	    "label": "Big Hit Entertainment",
+	    "debut": "13-06-2013",
+	    "members": [
+	        {
+	        	"name": "Jin"
+	      	},
+	      	{
+	        	"name": "Suga"
+	      	},
+	      	{
+	        	"name": "J-Hope"
+	      	},
+	      	{
+	        	"name": "Rap Monster"
+	      	},
+	      	{
+	        	"name": "Jimin"
+	      	},
+	      	{
+	        	"name": "V"
+	      	},
+	      	{
+	        	"name": "Jungkook"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "A.R.M.Y",
+	    "color": "-"
+    },
+    
+    {
+		"name": "ODD EYE",
+		"img_name": "ODD_EYE",
+	    "label": "Fair Music",
+	    "debut": "14-06-2013",
+	    "members": [
+	        {
+	        	"name": "Miki"
+	      	},
+	      	{
+	        	"name": "Eeum"
+	      	},
+	      	{
+	        	"name": "Hayule"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+    
+    {
+		"name": "2EYES",
+		"img_name": "2EYES",
+	    "label": "Sidus HQ",
+	    "debut": "21-06-2013",
+	    "members": [
+	        {
+	        	"name": "Hyanguk"
+	      	},
+	      	{
+	        	"name": "Hyeurin"
+	      	},
+	      	{
+	        	"name": "Daeun"
+	      	},
+	      	{
+	        	"name": "Dasom"
+	      	},
+	      	{
+	        	"name": "Yeonjun"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+    
+    {
+		"name": "Turan",
+		"img_name": "Turan",
+	    "label": "Star Pro Entertainment",
+	    "debut": "07-07-2013",
+	    "members": [
+	        {
+	        	"name": "Lian"
+	      	},
+	      	{
+	        	"name": "Elisha"
+	      	},
+	      	{
+	        	"name": "Yubyeol"
+	      	},
+	      	{
+	        	"name": "Hyejin"
+	      	},
+	      	{
+	        	"name": "Hyubin"
+	      	},
+	      	{
+	        	"name": "Jeonghwa"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "Chae Eun"
+	      	},
+	      	{
+	        	"name": "Leekyung"
+	      	},
+	      	{
+	        	"name": "Saebin"
+	      	},
+	      	{
+	        	"name": "Hanbi"
+	      	},
+	      	{
+	        	"name": "Ryuji"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+    
+    {
+		"name": "BESTie",
+		"img_name": "BESTie",
+	    "label": "YNB Entertainment",
+	    "debut": "12-07-2013",
+	    "members": [
+	        {
+	        	"name": "Hyeyeon"
+	      	},
+	      	{
+	        	"name": "Uji"
+	      	},
+	      	{
+	        	"name": "Dahye"
+	      	},
+	      	{
+	        	"name": "Haeryung"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+    
+    {
+		"name": "M.I.K",
+		"img_name": "M.I.K",
+	    "label": "GA Entertainment",
+	    "debut": "23-07-2013",
+	    "members": [
+	        {
+	        	"name": "Jay"
+	      	},
+	      	{
+	        	"name": "Sin"
+	      	},
+	      	{
+	        	"name": "Sakoo"
+	      	},
+	      	{
+	        	"name": "Czero"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+    
+    {
+		"name": "Lush",
+		"img_name": "Lush",
+	    "label": "Oscar Entertainment",
+	    "debut": "24-07-2013",
+	    "members": [
+	        {
+	        	"name": "Jamie"
+	      	},
+	      	{
+	        	"name": "Mini"
+	      	},
+	      	{
+	        	"name": "Sara"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+    
+    {
+		"name": "Say Yes",
+		"img_name": "Say_Yes",
+	    "label": "Music Factory",
+	    "debut": "26-07-2013",
+	    "members": [
+	        {
+	        	"name": "Si On"
+	      	},
+	      	{
+	        	"name": "Su Bin"
+	      	},
+	      	{
+	        	"name": "Jun Hyung"
+	      	},
+	      	{
+	        	"name": "Sung Kyu"
+	      	},
+	      	{
+	        	"name": "Ho Kyung"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+    
+    {
+		"name": "ESQ",
+		"img_name": "ESQ",
+	    "label": "Avance Entertainment",
+	    "debut": "01-08-2013",
+	    "members": [
+	        {
+	        	"name": "K9"
+	      	},
+	      	{
+	        	"name": "Keunhwan"
+	      	},
+	      	{
+	        	"name": "Kyle"
+	      	},
+	      	{
+	        	"name": "Jihoo"
+	      	},
+	      	{
+	        	"name": "Kyungmin"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+    
+    {
+		"name": "M.Pire",
+		"img_name": "M.Pire",
+	    "label": "CMG Stars",
+	    "debut": "08-08-2013",
+	    "members": [
+	        {
+	        	"name": "Taehee"
+	      	},
+	      	{
+	        	"name": "Lumin"
+	      	},
+	      	{
+	        	"name": "Yooseung"
+	      	},
+	      	{
+	        	"name": "Haru"
+	      	},
+	      	{
+	        	"name": "Red"
+	      	},
+	      	{
+	        	"name": "T.O"
+	      	},
+	      	{
+	        	"name": "Jerry"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "Muse",
+	    "color": "-"
+    },
+    
+    {
+		"name": "Wa$$up",
+		"img_name": "Wa$$up",
+	    "label": "Mafia Records",
+	    "debut": "08-08-2013",
+	    "members": [
+	        {
+	        	"name": "Jinju"
+	      	},
+	      	{
+	        	"name": "Dain"
+	      	},
+	      	{
+	        	"name": "Nada"
+	      	},
+	      	{
+	        	"name": "Nari"
+	      	},
+	      	{
+	        	"name": "Jiae"
+	      	},
+	      	{
+	        	"name": "Sujin"
+	      	},
+	      	{
+	        	"name": "Woojoo"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+    
+    {
+		"name": "Honey G",
+		"img_name": "Honey_G",
+	    "label": "Chung Chun Music",
+	    "debut": "22-08-2013",
+	    "members": [
+	        {
+	        	"name": "Jae Hyun"
+	      	},
+	      	{
+	        	"name": "Gi Young"
+	      	},
+	      	{
+	        	"name": "Tae Hyun"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+    
+    {
+		"name": "Royal Pirates",
+		"img_name": "Royal_Pirates",
+	    "label": "Apple of the Eye Company",
+	    "debut": "26-08-2013",
+	    "members": [
+	        {
+	        	"name": "Moon"
+	      	},
+	      	{
+	        	"name": "Soo-yoon"
+	      	},
+	      	{
+	        	"name": "James"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "Richard"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+    
+    {
+		"name": "Tren-D",
+		"img_name": "Tren-D",
+	    "label": "Baeksang Entertainment",
+	    "debut": "02-10-2013",
+	    "members": [
+	        {
+	        	"name": "Na-Yul"
+	      	},
+	      	{
+	        	"name": "Ta-Mi"
+	      	},
+	      	{
+	        	"name": "Ru-Ru"
+	      	},
+	      	{
+	        	"name": "Dan-B"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "Elly"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+    
+    {
+		"name": "Veloce",
+		"img_name": "Veloce",
+	    "label": "Krazy Sound",
+	    "debut": "16-10-2013",
+	    "members": [
+	        {
+	        	"name": "Chae Rin"
+	      	},
+	      	{
+	        	"name": "Ji Hyun"
+	      	},
+	      	{
+	        	"name": "Soo Jin"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+    
+    {
+		"name": "Timber",
+		"img_name": "Timber",
+	    "label": "A&G",
+	    "debut": "18-10-2013",
+	    "members": [
+	        {
+	        	"name": "Tenny"
+	      	},
+	      	{
+	        	"name": "K.Brown"
+	      	},
+	      	{
+	        	"name": "Davin"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+    
+    {
+		"name": "Topp Dogg",
+		"img_name": "Topp_Dogg",
+	    "label": "Stardom Entertainment",
+	    "debut": "24-10-2013",
+	    "members": [
+	        {
+	        	"name": "Jenissi"
+	      	},
+	      	{
+	        	"name": "P-Goon"
+	      	},
+	      	{
+	        	"name": "Seogoong"
+	      	},
+	      	{
+	        	"name": "Gohn"
+	      	},
+	      	{
+	        	"name": "Hojoon"
+	      	},
+	      	{
+	        	"name": "Kidoh"
+	      	},
+	      	{
+	        	"name": "Sangdo"
+	      	},
+	      	{
+	        	"name": "Nakta"
+	      	},
+	      	{
+	        	"name": "Hansol"
+	      	},
+	      	{
+	        	"name": "B-Joo"
+	      	},
+	      	{
+	        	"name": "Xero"
+	      	},
+	      	{
+	        	"name": "A-Tom"
+	      	},
+	      	{
+	        	"name": "Yano"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+    
+    {
+		"name": "Tint",
+		"img_name": "Tint",
+	    "label": "GH Entertainment",
+	    "debut": "30-10-2013",
+	    "members": [
+	        {
+	        	"name": "Mei"
+	      	},
+	      	{
+	        	"name": "Sangmi"
+	      	},
+	      	{
+	        	"name": "Mirim"
+	      	},
+	      	{
+	        	"name": "Jamie"
+	      	},
+	      	{
+	        	"name": "Minnie"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+    
+    {
+		"name": "AlphaBat",
+		"img_name": "AlphaBat",
+	    "label": "Simtong Entertainment",
+	    "debut": "11-11-2013",
+	    "members": [
+	        {
+	        	"name": "Su Yeob"
+	      	},
+	      	{
+	        	"name": "Se Lin"
+	      	},
+	      	{
+	        	"name": "Jun"
+	      	},
+	      	{
+	        	"name": "Jun Su"
+	      	},
+	      	{
+	        	"name": "San Ha"
+	      	},
+	      	{
+	        	"name": "Yeong Jin"
+	      	},
+	      	{
+	        	"name": "Yeon So"
+	      	},
+	      	{
+	        	"name": "Sang Hoon"
+	      	},
+	      	{
+	        	"name": "Ha Yong"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "Kyumin"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+    
+    {
+		"name": "K-MUCH",
+		"img_name": "K-MUCH",
+	    "label": "Chrome Entertainment",
+	    "debut": "06-01-2014",
+	    "members": [
+	        {
+	        	"name": "Kiu"
+	      	},
+	      	{
+	        	"name": "Loki"
+	      	},
+	      	{
+	        	"name": "BornUs"
+	      	},
+	      	{
+	        	"name": "G.Low"
+	      	},
+	      	{
+	        	"name": "Ato"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+    
+    {
+		"name": "GOT7",
+		"img_name": "GOT7",
+	    "label": "JYP Entertainment",
+	    "debut": "16-01-2014",
+	    "members": [
+	        {
+	        	"name": "JB"
+	      	},
+	      	{
+	        	"name": "Mark"
+	      	},
+	      	{
+	        	"name": "Jackson"
+	      	},
+	      	{
+	        	"name": "Jr."
+	      	},
+	      	{
+	        	"name": "Youngjae"
+	      	},
+	      	{
+	        	"name": "Bambam"
+	      	},
+	      	{
+	        	"name": "Yugyeom"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+    
+    {
+		"name": "Kiss&Cry",
+		"img_name": "Kiss&Cry",
+	    "label": "Winning Insight M",
+	    "debut": "24-01-2014",
+	    "members": [
+	        {
+	        	"name": "Bohye"
+	      	},
+	      	{
+	        	"name": "Haena"
+	      	},
+	      	{
+	        	"name": "Dia"
+	      	},
+	      	{
+	        	"name": "Soyumi"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+    
+    {
+		"name": "Lip Service",
+		"img_name": "Lip_Service",
+	    "label": "Now Entertainment",
+	    "debut": "03-02-2014",
+	    "members": [
+	        {
+	        	"name": "BiPa"
+	      	},
+	      	{
+	        	"name": "Anna"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "Cora"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+    
+    {
+		"name": "Bebop",
+		"img_name": "Bebop",
+	    "label": "HMI Entertainment",
+	    "debut": "13-02-2014",
+	    "members": [
+	        {
+	        	"name": "A-yeon"
+	      	},
+	      	{
+	        	"name": "Juwoo"
+	      	},
+	      	{
+	        	"name": "Ji In"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+    
+    {
+		"name": "Melody Day",
+		"img_name": "Melody_Day",
+	    "label": "Viewga Entertainment",
+	    "debut": "25-02-2014",
+	    "members": [
+	        {
+	        	"name": "Yeo-eun"
+	      	},
+	      	{
+	        	"name": "Cha-hee"
+	      	},
+	      	{
+	        	"name": "Ye-in"
+	      	},
+	      	{
+	        	"name": "Yoo-min"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+    
+    {
+		"name": "1PS",
+		"img_name": "1PS",
+	    "label": "Maroo Entertainment",
+	    "debut": "25-02-2014",
+	    "members": [
+	        {
+	        	"name": "Yena"
+	      	},
+	      	{
+	        	"name": "Yoonseo"
+	      	},
+	      	{
+	        	"name": "Jieun"
+	      	},
+	      	{
+	        	"name": "Saeha"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+    
+    {
+		"name": "Scarlet",
+		"img_name": "Scarlet",
+	    "label": "Funny Collection Entertainment",
+	    "debut": "06-03-2014",
+	    "members": [
+	        {
+	        	"name": "Sara"
+	      	},
+	      	{
+	        	"name": "Ji Hye"
+	      	},
+	      	{
+	        	"name": "Ra Byuel"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "Ye Rim"
+	      	},
+	      	{
+	        	"name": "Aromi"
+	      	},
+	      	{
+	        	"name": "Kimi"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+    
+    {
+		"name": "Smile.g",
+		"img_name": "Smile.g",
+	    "label": "Show Works Entertainment",
+	    "debut": "28-03-2014",
+	    "members": [
+	        {
+	        	"name": "Woorin"
+	      	},
+	      	{
+	        	"name": "Insun"
+	      	},
+	      	{
+	        	"name": "Maxi"
+	      	},
+	      	{
+	        	"name": "Jieun"
+	      	},
+	      	{
+	        	"name": "Lina"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+    
+    {
+		"name": "Wings",
+		"img_name": "Wings",
+	    "label": "Sony Music Korea",
+	    "debut": "12-03-2014",
+	    "members": [
+	        {
+	        	"name": "Yeseul"
+	      	},
+	      	{
+	        	"name": "Nayoung"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+    
+    {
+		"name": "So Real",
+		"img_name": "So_Real",
+	    "label": "Star Empire Entertainment",
+	    "debut": "13-03-2014",
+	    "members": [
+	        {
+	        	"name": "Jang Moon"
+	      	},
+	      	{
+	        	"name": "Sung Ho"
+	      	},
+	      	{
+	        	"name": "Philip"
+	      	},
+	      	{
+	        	"name": "Dae Gun"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+    
+    {
+		"name": "TROY",
+		"img_name": "TROY",
+	    "label": "Brand New",
+	    "debut": "13-03-2014",
+	    "members": [
+	        {
+	        	"name": "Bumkey"
+	      	},
+	      	{
+	        	"name": "Kanto"
+	      	},
+	      	{
+	        	"name": "Jaewoong"
+	      	},
+	      	{
+	        	"name": "Changwoo"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+    
+    {
+		"name": "JACE",
+		"img_name": "JACE",
+	    "label": "Right Achievement Group",
+	    "debut": "18-03-2014",
+	    "members": [
+	        {
+	        	"name": "Sang Eun"
+	      	},
+	      	{
+	        	"name": "Young Sup"
+	      	},
+	      	{
+	        	"name": "Do Hyun"
+	      	},
+	      	{
+	        	"name": "Seung Hyun"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+    
+    {
+		"name": "Billion",
+		"img_name": "Billion",
+	    "label": "Move Entertainment",
+	    "debut": "24-03-2014",
+	    "members": [
+	        {
+	        	"name": "Ray"
+	      	},
+	      	{
+	        	"name": "Songyi"
+	      	},
+	      	{
+	        	"name": "Betty"
+	      	},
+	      	{
+	        	"name": "Janet"
+	      	},
+	      	{
+	        	"name": "Kiryun"
+	      	},
+	      	{
+	        	"name": "Seul-Gi"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+    
+    {
+		"name": "JJCC",
+		"img_name": "JJCC",
+	    "label": "The Jackie Chan Group Korea",
+	    "debut": "24-03-2014",
+	    "members": [
+	        {
+	        	"name": "E.Co"
+	      	},
+	      	{
+	        	"name": "Eddy"
+	      	},
+	      	{
+	        	"name": "Prince Mak"
+	      	},
+	      	{
+	        	"name": "Simba"
+	      	},
+	      	{
+	        	"name": "San Chung"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+    
+    {
+		"name": "Alice White",
+		"img_name": "Alice_White",
+	    "label": "SMAF",
+	    "debut": "04-04-2014",
+	    "members": [
+	        {
+	        	"name": "Eunjo"
+	      	},
+	      	{
+	        	"name": "Jenny"
+	      	},
+	      	{
+	        	"name": "Arlene"
+	      	},
+	      	{
+	        	"name": "Sieun"
+	      	},
+	      	{
+	        	"name": "Min Yeong"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+    
+    {
+		"name": "AKMU/Akdong Musician",
+		"img_name": "Akdong_Musician",
+	    "label": "YG Entertainment",
+	    "debut": "07-04-2014",
+	    "members": [
+	        {
+	        	"name": "Chan-Hyuk"
+	      	},
+	      	{
+	        	"name": "Soo-Hyun"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+    
+    {
+		"name": "HIGH4",
+		"img_name": "HIGH4",
+	    "label": "N.A.P Entertainment",
+	    "debut": "07-04-2014",
+	    "members": [
+	        {
+	        	"name": "Alex"
+	      	},
+	      	{
+	        	"name": "Sunggu"
+	      	},
+	      	{
+	        	"name": "Myung Han"
+	      	},
+	      	{
+	        	"name": "Young Jun"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+    
+    {
+		"name": "BTL/Beyond The Light",
+		"img_name": "BTL",
+	    "label": "Kiroy Company",
+	    "debut": "15-05-2014",
+	    "members": [
+	        {
+	        	"name": "Jisu"
+	      	},
+	      	{
+	        	"name": "Jean.Paul"
+	      	},
+	      	{
+	        	"name": "Jay"
+	      	},
+	      	{
+	        	"name": "Robin"
+	      	},
+	      	{
+	        	"name": "Do.Ka"
+	      	},
+	      	{
+	        	"name": "Q.L"
+	      	},
+	      	{
+	        	"name": "Max"
+	      	},
+	      	{
+	        	"name": "Allen"
+	      	},
+	      	{
+	        	"name": "Yu.A"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "-",
+	    "color": "-"
+    },
+    
+    {
+		"name": "Bay.B",
+		"img_name": "Bay.B",
+	    "label": "Can Entertainment",
+	    "debut": "16-05-2014",
+	    "members": [
+	        {
+	        	"name": "Miho"
+	      	},
+	      	{
+	        	"name": "Seola"
+	      	},
+	      	{
+	        	"name": "Miel"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+    
+    {
+		"name": "Berry Good",
+		"img_name": "Berry_Good",
+	    "label": "Asia Bridge Entertainment",
+	    "debut": "21-05-2014",
+	    "members": [
+	        {
+	        	"name": "Subin"
+	      	},
+	      	{
+	        	"name": "Iera"
+	      	},
+	      	{
+	        	"name": "Taeha"
+	      	},
+	      	{
+	        	"name": "Nayeon"
+	      	},
+	      	{
+	        	"name": "Kowoon"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+    
+    {
+		"name": "Bob Girls",
+		"img_name": "Bob_Girls",
+	    "label": "Chrome Entertainment",
+	    "debut": "10-06-2014",
+	    "members": [
+	        {
+	        	"name": "-"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "Dahye"
+	      	},
+	      	{
+	        	"name": "Yujeong"
+	      	},
+	      	{
+	        	"name": "Jina"
+	      	},
+	      	{
+	        	"name": "Danbi"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+    
+    {
+		"name": "MAMAMOO",
+		"img_name": "MAMAMOO",
+	    "label": "WA Entertainment",
+	    "debut": "18-06-2014",
+	    "members": [
+	        {
+	        	"name": "Solar"
+	      	},
+	      	{
+	        	"name": "Moonbyul"
+	      	},
+	      	{
+	        	"name": "Wheein"
+	      	},
+	      	{
+	        	"name": "Whasa"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+    
+    {
+		"name": "BiGFLO",
+		"img_name": "BiGFLO",
+	    "label": "HO Entertainment",
+	    "debut": "23-06-2014",
+	    "members": [
+	        {
+	        	"name": "Jungkyun"
+	      	},
+	      	{
+	        	"name": "Ron"
+	      	},
+	      	{
+	        	"name": "Yu Seong"
+	      	},
+	      	{
+	        	"name": "Z-UK"
+	      	},
+	      	{
+	        	"name": "High Top"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+    
+    {
+		"name": "HALO",
+		"img_name": "HALO",
+	    "label": "AYIN Holdings",
+	    "debut": "28-06-2014",
+	    "members": [
+	        {
+	        	"name": "Dino"
+	      	},
+	      	{
+	        	"name": "In Haeng"
+	      	},
+	      	{
+	        	"name": "Ooon"
+	      	},
+	      	{
+	        	"name": "Jae Yong"
+	      	},
+	      	{
+	        	"name": "Hee Cheon"
+	      	},
+	      	{
+	        	"name": "Yoon Dong"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+    
+    {
+		"name": "LU:KUS",
+		"img_name": "LUKUS",
+	    "label": "Pan Entertainment",
+	    "debut": "03-07-2014",
+	    "members": [
+	        {
+	        	"name": "J.One"
+	      	},
+	      	{
+	        	"name": "Donghyun"
+	      	},
+	      	{
+	        	"name": "Kyungjin"
+	      	},
+	      	{
+	        	"name": "Choi"
+	      	},
+	      	{
+	        	"name": "Jinwan"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+    
+    {
+		"name": "B.I.G/Boys in Groove",
+		"img_name": "B.I.G",
+	    "label": "GH Entertainment",
+	    "debut": "08-07-2014",
+	    "members": [
+	        {
+	        	"name": "J-Hoon"
+	      	},
+	      	{
+	        	"name": "Benji"
+	      	},
+	      	{
+	        	"name": "GunMin"
+	      	},
+	      	{
+	        	"name": "Gookmin Pyo"
+	      	},
+	      	{
+	        	"name": "Heedo"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+    
+    {
+		"name": "LODIA",
+		"img_name": "LODIA",
+	    "label": "ATC Records",
+	    "debut": "09-07-2014",
+	    "members": [
+	        {
+	        	"name": "Effy"
+	      	},
+	      	{
+	        	"name": "Elena"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+    
+    {
+		"name": "LEGEND",
+		"img_name": "LEGEND",
+	    "label": "JK Space",
+	    "debut": "09-07-2014",
+	    "members": [
+	        {
+	        	"name": "Listen"
+	      	},
+	      	{
+	        	"name": "Roi"
+	      	},
+	      	{
+	        	"name": "Jae Hyuk"
+	      	},
+	      	{
+	        	"name": "Lito"
+	      	},
+	      	{
+	        	"name": "Chansun"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+    
+    {
+		"name": "Play the Siren",
+		"img_name": "Play_the_Siren",
+	    "label": "BALJUNSO",
+	    "debut": "17-07-2014",
+	    "members": [
+	        {
+	        	"name": "SIREN"
+	      	},
+	      	{
+	        	"name": "Squalla"
+	      	},
+	      	{
+	        	"name": "Beck Bum"
+	      	},
+	      	{
+	        	"name": "Chi Chi"
+	      	},
+	      	{
+	        	"name": "Kasper"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+    
+    {
+		"name": "A.Kor",
+		"img_name": "A.Kor",
+	    "label": "Doo Republic",
+	    "debut": "24-07-2014",
+	    "members": [
+	        {
+	        	"name": "Da Ya"
+	      	},
+	      	{
+	        	"name": "Tae Hee"
+	      	},
+	      	{
+	        	"name": "Jiyoung"
+	      	},
+	      	{
+	        	"name": "MinJu"
+	      	},
+	      	{
+	        	"name": "Kemy"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+    
+    {
+		"name": "N*White",
+		"img_name": "N*White",
+	    "label": "WJ Entertainment",
+	    "debut": "16-09-2014",
+	    "members": [
+	        {
+	        	"name": "Su Bin"
+	      	},
+	      	{
+	        	"name": "Ha Kyung"
+	      	},
+	      	{
+	        	"name": "Lin A"
+	      	},
+	      	{
+	        	"name": "Soo Hyun"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+
+    {
+		"name": "Ye-A",
+		"img_name": "Ye-A",
+	    "label": "Kiroy Company",
+	    "debut": "18-07-2014",
+	    "members": [
+	        {
+	        	"name": "Hyei"
+	      	},
+	      	{
+	        	"name": "Dohye"
+	      	},
+	      	{
+	        	"name": "Pier"
+	      	},
+	      	{
+	        	"name": "Yigyer"
+	      	},
+	      	{
+	        	"name": "Kazoo"
+	      	},
+	      	{
+	        	"name": "Yeorin"
+	      	},
+	      	{
+	        	"name": "Hady"
+	      	},
+	      	{
+	        	"name": "Chai"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+
+    {
+		"name": "Taurine",
+		"img_name": "Taurine",
+	    "label": "KT Music",
+	    "debut": "26-07-2014",
+	    "members": [
+	        {
+	        	"name": "Da Yeon"
+	      	},
+	      	{
+	        	"name": "Ga Hee"
+	      	},
+	      	{
+	        	"name": "Sang Eung"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+
+    {
+		"name": "ZEST",
+		"img_name": "ZEST",
+	    "label": "Zenith Media",
+	    "debut": "27-07-2014",
+	    "members": [
+	        {
+	        	"name": "Shun"
+	      	},
+	      	{
+	        	"name": "YEHO"
+	      	},
+	      	{
+	        	"name": "Shin"
+	      	},
+	      	{
+	        	"name": "Choi Go"
+	      	},
+	      	{
+	        	"name": "Duk Sin"
+	      	},
+	      	{
+	        	"name": "Chi Woo"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+
+    {
+		"name": "Red Velvet",
+		"img_name": "Red_Velvet",
+	    "label": "SM Entertainment",
+	    "debut": "01-08-2014",
+	    "members": [
+	        {
+	        	"name": "Irene"
+	      	},
+	      	{
+	        	"name": "Seulgi"
+	      	},
+	      	{
+	        	"name": "Wendy"
+	      	},
+	      	{
+	        	"name": "Joy"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+
+    {
+		"name": "4L/Four Ladies",
+		"img_name": "Four_Ladies",
+	    "label": "Jade Contents Media",
+	    "debut": "01-08-2014",
+	    "members": [
+	        {
+	        	"name": "Chany"
+	      	},
+	      	{
+	        	"name": "Jayoung"
+	      	},
+	      	{
+	        	"name": "J-na"
+	      	},
+	      	{
+	        	"name": "Yeseul"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+
+    {
+		"name": "WINNER",
+		"img_name": "WINNER",
+	    "label": "YG Entertainment",
+	    "debut": "11-08-2014",
+	    "members": [
+	        {
+	        	"name": "Jinwoo"
+	      	},
+	      	{
+	        	"name": "Seunghoon"
+	      	},
+	      	{
+	        	"name": "Mino"
+	      	},
+	      	{
+	        	"name": "Seungyoon"
+	      	},
+	      	{
+	        	"name": "Taehyun"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "Inner Circle",
+	    "color": "?"
+    },
+
+    {
+		"name": "4TEN",
+		"img_name": "4TEN",
+	    "label": "Jungle Entertainment",
+	    "debut": "25-08-2014",
+	    "members": [
+	        {
+	        	"name": "TEM"
+	      	},
+	      	{
+	        	"name": "Hyeji"
+	      	},
+	      	{
+	        	"name": "Eujin"
+	      	},
+	      	{
+	        	"name": "Hyejin"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+
+    {
+		"name": "LABOUM",
+		"img_name": "LABOUM",
+	    "label": "NH Media/Nega Network",
+	    "debut": "28-08-2014",
+	    "members": [
+	        {
+	        	"name": "Yoojeong"
+	      	},
+	      	{
+	        	"name": "Soyeon"
+	      	},
+	      	{
+	        	"name": "ZN"
+	      	},
+	      	{
+	        	"name": "Haejin"
+	      	},
+	      	{
+	        	"name": "Solbin"
+	      	},
+	      	{
+	        	"name": "Yoolhee"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+
+    {
+		"name": "MINX",
+		"img_name": "MINX",
+	    "label": "Happy Face Entertainment",
+	    "debut": "18-09-2014",
+	    "members": [
+	        {
+	        	"name": "Siyeon"
+	      	},
+	      	{
+	        	"name": "Dami"
+	      	},
+	      	{
+	        	"name": "Su-A"
+	      	},
+	      	{
+	        	"name": "Yoohyeon"
+	      	},
+	      	{
+	        	"name": "JI-U"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+
+    {
+		"name": "Switch",
+		"img_name": "Switch",
+	    "label": "Switch Entertainment",
+	    "debut": "19-09-2014",
+	    "members": [
+	        {
+	        	"name": "Dami"
+	      	},
+	      	{
+	        	"name": "Yerim"
+	      	},
+	      	{
+	        	"name": "Su Jung"
+	      	},
+	      	{
+	        	"name": "Yora"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+
+    {
+		"name": "ZPZG",
+		"img_name": "ZPZG",
+	    "label": "J-Star Entertainment",
+	    "debut": "26-09-2014",
+	    "members": [
+	        {
+	        	"name": "Khan"
+	      	},
+	      	{
+	        	"name": "Kang"
+	      	},
+	      	{
+	        	"name": "Gyeom"
+	      	},
+	      	{
+	        	"name": "Jihoon"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+
+    {
+		"name": "MAD TOWN",
+		"img_name": "MAD_TOWN",
+	    "label": "J.Tune Camp",
+	    "debut": "06-10-2014",
+	    "members": [
+	        {
+	        	"name": "Moos"
+	      	},
+	      	{
+	        	"name": "Daewon"
+	      	},
+	      	{
+	        	"name": "Geon"
+	      	},
+	      	{
+	        	"name": "Jota"
+	      	},
+	      	{
+	        	"name": "Jun"
+	      	},
+	      	{
+	        	"name": "Buffy"
+	      	},
+	      	{
+	        	"name": "H.O"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+
+    {
+		"name": "UNIQ",
+		"img_name": "UNIQ",
+	    "label": "YG Entertainment",
+	    "debut": "20-10-2014",
+	    "members": [
+	        {
+	        	"name": "Yi Xuan"
+	      	},
+	      	{
+	        	"name": "Sung Joo"
+	      	},
+	      	{
+	        	"name": "Wen Han"
+	      	},
+	      	{
+	        	"name": "Seung Youn"
+	      	},
+	      	{
+	        	"name": "Yi Bo"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+
+    {
+		"name": "Purfles",
+		"img_name": "Purfles",
+	    "label": "Crescendo Music",
+	    "debut": "23-10-2014",
+	    "members": [
+	        {
+	        	"name": "Geon Hee"
+	      	},
+	      	{
+	        	"name": "Eun Yong"
+	      	},
+	      	{
+	        	"name": "Woo Young"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+
+    {
+		"name": "D.Holic",
+		"img_name": "D.Holic",
+	    "label": "INGENIO Media",
+	    "debut": "23-10-2014",
+	    "members": [
+	        {
+	        	"name": "Rena"
+	      	},
+	      	{
+	        	"name": "Nine"
+	      	},
+	      	{
+	        	"name": "Hami"
+	      	},
+	      	{
+	        	"name": "Danbi"
+	      	},
+	      	{
+	        	"name": "Duri"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+
+    {
+		"name": "Atomic Kiz",
+		"img_name": "Atomic_Kiz",
+	    "label": "Lydus Contents Company",
+	    "debut": "04-11-2014",
+	    "members": [
+	        {
+	        	"name": "Ye Hoon"
+	      	},
+	      	{
+	        	"name": "JM"
+	      	},
+	      	{
+	        	"name": "Jin Han"
+	      	},
+	      	{
+	        	"name": "Seong Gong"
+	      	},
+	      	{
+	        	"name": "J.Per"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+
+    {
+		"name": "Lovelyz",
+		"img_name": "Lovelyz",
+	    "label": "Woollim Entertainment",
+	    "debut": "17-11-2014",
+	    "members": [
+	        {
+	        	"name": "Baby Soul"
+	      	},
+	      	{
+	        	"name": "Jiae"
+	      	},
+	      	{
+	        	"name": "Jisoo"
+	      	},
+	      	{
+	        	"name": "Mijoo"
+	      	},
+	      	{
+	        	"name": "Kei"
+	      	},
+	      	{
+	        	"name": "Jin"
+	      	},
+	      	{
+	        	"name": "Sujeong"
+	      	},
+	      	{
+	        	"name": "Yein"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+
+    {
+		"name": "5urprise",
+		"img_name": "5urprise",
+	    "label": "Fantagio",
+	    "debut": "18-11-2014",
+	    "members": [
+	        {
+	        	"name": "Il"
+	      	},
+	      	{
+	        	"name": "Kang-joon"
+	      	},
+	      	{
+	        	"name": "Myung"
+	      	},
+	      	{
+	        	"name": "Tae-oh"
+	      	},
+	      	{
+	        	"name": "Tae-hwan"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+
+    {
+		"name": "Sonamoo",
+		"img_name": "Sonamoo",
+	    "label": "TS Entertainment",
+	    "debut": "22-12-2014",
+	    "members": [
+	        {
+	        	"name": "Su Min"
+	      	},
+	      	{
+	        	"name": "Min Jae"
+	      	},
+	      	{
+	        	"name": "D.ana"
+	      	},
+	      	{
+	        	"name": "Na Hyun"
+	      	},
+	      	{
+	        	"name": "Eui Jin"
+	      	},
+	      	{
+	        	"name": "High.D"
+	      	},
+	      	{
+	        	"name": "New Sun"
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": "-"
+	      	}
+	    ],
+	    "fanclub": "?",
+	    "color": "?"
+    },
+
+    {
+		"name": "",
+		"img_name": "",
+	    "label": "",
+	    "debut": "",
+	    "members": [
+	        {
+	        	"name": ""
+	      	},
+	      	{
+	        	"name": ""
+	      	},
+	      	{
+	        	"name": ""
+	      	},
+	      	{
+	        	"name": ""
+	      	}
+	    ],
+	    "ex_members": [
+	      	{
+	        	"name": ""
+	      	},
+	      	{
+	        	"name": ""
+	      	}
+	    ],
+	    "fanclub": "",
+	    "color": ""
+    }
+
+]

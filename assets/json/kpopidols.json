@@ -1,0 +1,1111 @@
+[	
+	{
+		"name": "Eric Mun",
+		"img_name": "Shinhwa_Eric_Mun",
+		"birth_name": "Mun Jung Hyuk",
+		"birth_date": "16-02-1979",
+		"nationality": "Korean",
+		"gender": "Male",
+		"height": "180",
+		"weight": "71",
+		"blood_type": "B",
+	    "group": "Shinhwa",
+	    "position": "Leader, Rap",
+	    "sub_unit": "None"
+    },
+
+    {
+		"name": "Lee Min Woo",
+		"img_name": "Shinhwa_Lee_Min_Woo",
+		"birth_name": "Lee Min Woo",
+		"birth_date": "28-07-1979",
+		"nationality": "Korean",
+		"gender": "Male",
+		"height": "174",
+		"weight": "64",
+		"blood_type": "A",
+	    "group": "Shinhwa",
+	    "position": "Vocal, Rap",
+	    "sub_unit": "Solo"
+    },
+
+    {
+		"name": "Kim Dong Wan",
+		"img_name": "Shinhwa_Kim_Dong_Wan",
+		"birth_name": "Kim Dong Wan",
+		"birth_date": "21-11-1979",
+		"nationality": "Korean",
+		"gender": "Male",
+		"height": "171",
+		"weight": "68",
+		"blood_type": "O",
+	    "group": "Shinhwa",
+	    "position": "Vocal",
+	    "sub_unit": "Solo"
+    },
+
+    {
+		"name": "Shin Hye Sung",
+		"img_name": "Shinhwa_Shin_Hye_Sung",
+		"birth_name": "Jung Pil Kyo",
+		"birth_date": "27-11-1979",
+		"nationality": "Korean",
+		"gender": "Male",
+		"height": "179",
+		"weight": "65",
+		"blood_type": "A",
+	    "group": "Shinhwa",
+	    "position": "Vocal",
+	    "sub_unit": "Solo"
+    },
+
+    {
+		"name": "Jun Jin",
+		"img_name": "Shinhwa_Jun_Jin",
+		"birth_name": "Park Choong Jae",
+		"birth_date": "19-08-1980",
+		"nationality": "Korean",
+		"gender": "Male",
+		"height": "182",
+		"weight": "75",
+		"blood_type": "B",
+	    "group": "Shinhwa",
+	    "position": "Rap, Dance, Vocal",
+	    "sub_unit": "Solo"
+    },
+
+    {
+		"name": "Andy",
+		"img_name": "Shinhwa_Andy",
+		"birth_name": "Lee Sun Ho",
+		"birth_date": "21-01-1981",
+		"nationality": "Korean",
+		"gender": "Male",
+		"height": "175",
+		"weight": "62",
+		"blood_type": "O",
+	    "group": "Shinhwa",
+	    "position": "Rap, Maknae",
+	    "sub_unit": "Solo"
+    },
+
+    {
+		"name": "Kim Jong Min",
+		"img_name": "Koyote_Kim_Jong_Min",
+		"birth_name": "Kim Jong Min",
+		"birth_date": "24-09-1979",
+		"nationality": "Korean",
+		"gender": "Male",
+		"height": "179",
+		"weight": "62",
+		"blood_type": "O",
+	    "group": "Koyote",
+	    "position": "Leader, Lead Vocal",
+	    "sub_unit": "None"
+    },
+
+    {
+		"name": "Bbaek Ga",
+		"img_name": "Koyote_Bbaek_Ga",
+		"birth_name": "Baek Sung Hyun",
+		"birth_date": "14-05-1981",
+		"nationality": "Korean",
+		"gender": "Male",
+		"height": "186",
+		"weight": "74",
+		"blood_type": "O",
+	    "group": "Koyote",
+	    "position": "Rap",
+	    "sub_unit": "None"
+    },
+
+    {
+		"name": "Shin Ji",
+		"img_name": "Koyote_Shin_Ji",
+		"birth_name": "Lee Jee-Seon",
+		"birth_date": "18-11-1981",
+		"nationality": "Korean",
+		"gender": "Female",
+		"height": "165",
+		"weight": "46",
+		"blood_type": "AB",
+	    "group": "Koyote",
+	    "position": "Main Vocal, Maknae",
+	    "sub_unit": "Solo"
+    },
+
+    {
+		"name": "Joon Park",
+		"img_name": "GOD_Joon_Park",
+		"birth_name": "Park Joon Hyung",
+		"birth_date": "20-07-1969",
+		"nationality": "Korean-American",
+		"gender": "Male",
+		"height": "181",
+		"weight": "68",
+		"blood_type": "B",
+	    "group": "G.O.D.",
+	    "position": "Leader, Rap",
+	    "sub_unit": "None"
+    },
+
+    {
+		"name": "Yoon Kye Sang",
+		"img_name": "GOD_Yoon_Kye_Sang",
+		"birth_name": "Yoon Kye Sang",
+		"birth_date": "20-12-1978",
+		"nationality": "Korean",
+		"gender": "Male",
+		"height": "182",
+		"weight": "62",
+		"blood_type": "O",
+	    "group": "G.O.D.",
+	    "position": "Vocal",
+	    "sub_unit": "None"
+    },
+
+    {
+		"name": "Danny Ahn",
+		"img_name": "GOD_Danny_Ahn",
+		"birth_name": "Ahn Shin-won",
+		"birth_date": "22-12-1978",
+		"nationality": "Korean-American",
+		"gender": "Male",
+		"height": "181",
+		"weight": "60",
+		"blood_type": "O",
+	    "group": "G.O.D.",
+	    "position": "Rap",
+	    "sub_unit": "Solo"
+    },
+
+    {
+		"name": "Son Hoyoung",
+		"img_name": "GOD_Son_Hoyoung",
+		"birth_name": "Andy Son",
+		"birth_date": "26-03-1980",
+		"nationality": "Korean-American",
+		"gender": "Male",
+		"height": "177",
+		"weight": "62",
+		"blood_type": "B",
+	    "group": "G.O.D.",
+	    "position": "Rap, Vocal",
+	    "sub_unit": "Solo"
+    },
+
+    {
+		"name": "Kim Tae-woo",
+		"img_name": "GOD_Kim_Tae_Woo",
+		"birth_name": "Kim Tae-woo",
+		"birth_date": "12-05-1981",
+		"nationality": "Korean",
+		"gender": "Male",
+		"height": "190",
+		"weight": "89",
+		"blood_type": "B",
+	    "group": "G.O.D.",
+	    "position": "Vocal, Maknae",
+	    "sub_unit": "Solo"
+    },
+
+    {
+		"name": "Yewon",
+		"img_name": "Jewelry_Yewon",
+		"birth_name": "Kim Ye Won",
+		"birth_date": "05-12-1989",
+		"nationality": "Korean",
+		"gender": "Female",
+		"height": "162",
+		"weight": "45",
+		"blood_type": "O",
+	    "group": "Jewelry",
+	    "position": "Main Vocal",
+	    "sub_unit": "None"
+    },
+
+    {
+		"name": "Gary",
+		"img_name": "Leessang_Gary",
+		"birth_name": "Kang Hee Gun",
+		"birth_date": "24-02-1978",
+		"nationality": "Korean",
+		"gender": "Male",
+		"height": "174",
+		"weight": "?",
+		"blood_type": "?",
+	    "group": "Leessang",
+	    "position": "Rap",
+	    "sub_unit": "Solo"
+    },
+
+    {
+		"name": "Gil",
+		"img_name": "Leessang_Gil",
+		"birth_name": "Gil Seong Joon",
+		"birth_date": "24-12-1977",
+		"nationality": "Korean",
+		"gender": "Male",
+		"height": "178",
+		"weight": "?",
+		"blood_type": "?",
+	    "group": "Leessang",
+	    "position": "Vocal",
+	    "sub_unit": "None"
+    },
+
+    {
+		"name": "Choiza",
+		"img_name": "Dynamic_Duo_Choiza",
+		"birth_name": "Choi Jae Ho",
+		"birth_date": "17-03-1980",
+		"nationality": "Korean",
+		"gender": "Male",
+		"height": "180",
+		"weight": "?",
+		"blood_type": "O",
+	    "group": "Dynamic Duo",
+	    "position": "Rap",
+	    "sub_unit": "None"
+    },
+
+    {
+		"name": "Gaeko",
+		"img_name": "Dynamic_Duo_Gaeko",
+		"birth_name": "Kim Yoon Sung",
+		"birth_date": "14-01-1981",
+		"nationality": "Korean",
+		"gender": "Male",
+		"height": "173",
+		"weight": "?",
+		"blood_type": "B",
+	    "group": "Dynamic Duo",
+	    "position": "Rap",
+	    "sub_unit": "None"
+    },
+
+    {
+		"name": "Tablo",
+		"img_name": "Epik_High_Tablo",
+		"birth_name": "Lee Seon Woong",
+		"birth_date": "22-07-1980",
+		"nationality": "Korean",
+		"gender": "Male",
+		"height": "175",
+		"weight": "?",
+		"blood_type": "A",
+	    "group": "Epik High",
+	    "position": "Leader, Rapper",
+	    "sub_unit": "Solo"
+    },
+
+    {
+		"name": "DJ Tukutz",
+		"img_name": "Epik_High_Tukutz",
+		"birth_name": "Kim Jung Sik",
+		"birth_date": "19-11-1981",
+		"nationality": "Korean",
+		"gender": "Male",
+		"height": "175",
+		"weight": "64",
+		"blood_type": "A",
+	    "group": "Epik High",
+	    "position": "Producer, Turntablist",
+	    "sub_unit": "None"
+    },
+
+    {
+		"name": "Mithra Jin",
+		"img_name": "Epik_High_Mithra",
+		"birth_name": "Choi Jin",
+		"birth_date": "06-01-1983",
+		"nationality": "Korean",
+		"gender": "Male",
+		"height": "1777",
+		"weight": "80",
+		"blood_type": "AB",
+	    "group": "Epik High",
+	    "position": "Producer, Vocal, Maknae",
+	    "sub_unit": "None"
+    },
+
+    {
+		"name": "U-Know Yunho",
+		"img_name": "TVXQ_Yunho",
+		"birth_name": "Jung Yunho",
+		"birth_date": "06-02-1986",
+		"nationality": "Korean",
+		"gender": "Male",
+		"height": "184",
+		"weight": "66",
+		"blood_type": "A",
+	    "group": "TVXQ!",
+	    "position": "Leader, Vocal",
+	    "sub_unit": "None"
+    },
+
+    {
+		"name": "Max",
+		"img_name": "TVXQ_Max",
+		"birth_name": "Shim Chang Min",
+		"birth_date": "18-02-1988",
+		"nationality": "Korean",
+		"gender": "Male",
+		"height": "186",
+		"weight": "61",
+		"blood_type": "B",
+	    "group": "TVXQ!",
+	    "position": "Vocal",
+	    "sub_unit": "None"
+    },
+
+    {
+		"name": "Kim Hyun-joong",
+		"img_name": "SS501_Hyun_joong",
+		"birth_name": "Kim Hyun-joong",
+		"birth_date": "06-06-1986",
+		"nationality": "Korean",
+		"gender": "Male",
+		"height": "182",
+		"weight": "68",
+		"blood_type": "B",
+	    "group": "SS501",
+	    "position": "Leader, Vocal, Rap",
+	    "sub_unit": "Solo"
+    },
+
+    {
+		"name": "Heo Young-saeng",
+		"img_name": "SS501_Young_saeng",
+		"birth_name": "Heo Young-saeng",
+		"birth_date": "03-11-1986",
+		"nationality": "Korean",
+		"gender": "Male",
+		"height": "178",
+		"weight": "63",
+		"blood_type": "O",
+	    "group": "SS501",
+	    "position": "Vocal",
+	    "sub_unit": "SS501 Project Group, Solo"
+    },
+
+    {
+		"name": "Kim Kyu-jong",
+		"img_name": "SS501_Kyu_jong",
+		"birth_name": "Kim Kyu-jong",
+		"birth_date": "24-02-1987",
+		"nationality": "Korean",
+		"gender": "Male",
+		"height": "182",
+		"weight": "65",
+		"blood_type": "A",
+	    "group": "SS501",
+	    "position": "Vocal, Rap",
+	    "sub_unit": "SS501 Project Group, Solo"
+    },
+
+    {
+		"name": "Park Jung-min",
+		"img_name": "SS501_Jung_min",
+		"birth_name": "Park Jung-min",
+		"birth_date": "03-04-1987",
+		"nationality": "Korean",
+		"gender": "Male",
+		"height": "183",
+		"weight": "65",
+		"blood_type": "O",
+	    "group": "SS501",
+	    "position": "Vocal",
+	    "sub_unit": "Solo"
+    },
+
+    {
+		"name": "Kim Hyung-jun",
+		"img_name": "SS501_Hyung_jun",
+		"birth_name": "Kim Hyung-jun",
+		"birth_date": "24-02-1987",
+		"nationality": "Korean",
+		"gender": "Male",
+		"height": "182",
+		"weight": "65",
+		"blood_type": "A",
+	    "group": "SS501",
+	    "position": "Vocal, Rap, Maknae",
+	    "sub_unit": "SS501 Project Group, Solo"
+    },
+
+    {
+		"name": "Leeteuk",
+		"img_name": "SJ_Leeteuk",
+		"birth_name": "Park Jung Soo",
+		"birth_date": "01-07-1983",
+		"nationality": "Korean",
+		"gender": "Male",
+		"height": "179",
+		"weight": "59",
+		"blood_type": "A",
+	    "group": "Super Junior",
+	    "position": "Leader, Vocal, Rap",
+	    "sub_unit": "Super Junior-T, Super Junior-H"
+    },
+
+    {
+		"name": "Heechul",
+		"img_name": "SJ_Heechul",
+		"birth_name": "Kim Hee Chul",
+		"birth_date": "10-07-1983",
+		"nationality": "Korean",
+		"gender": "Male",
+		"height": "179",
+		"weight": "60",
+		"blood_type": "AB",
+	    "group": "Super Junior",
+	    "position": "Vocal, Rap",
+	    "sub_unit": "Super Junior-T"
+    },
+
+    {
+		"name": "Yesung",
+		"img_name": "SJ_Yesung",
+		"birth_name": "Kim Jong Woon",
+		"birth_date": "24-08-1984",
+		"nationality": "Korean",
+		"gender": "Male",
+		"height": "178",
+		"weight": "64",
+		"blood_type": "AB",
+	    "group": "Super Junior",
+	    "position": "Vocal",
+	    "sub_unit": "Super Junior-K.R.Y, Super Junior-Happy"
+    },
+
+    {
+		"name": "Kangin",
+		"img_name": "SJ_Kangin",
+		"birth_name": "Kim Young Woon",
+		"birth_date": "17-01-1985",
+		"nationality": "Korean",
+		"gender": "Male",
+		"height": "178",
+		"weight": "70",
+		"blood_type": "O",
+	    "group": "Super Junior",
+	    "position": "Vocal",
+	    "sub_unit": "Super Junior-T, Super Junior-H"
+    },
+
+    {
+		"name": "Shindong",
+		"img_name": "SJ_Shindong",
+		"birth_name": "Shin Dong Hee",
+		"birth_date": "28-09-1985",
+		"nationality": "Korean",
+		"gender": "Male",
+		"height": "178",
+		"weight": "90",
+		"blood_type": "O",
+	    "group": "Super Junior",
+	    "position": "Rap, Dance",
+	    "sub_unit": "Super Junior-T, Super Junior-H"
+    },
+
+    {
+		"name": "Sungmin",
+		"img_name": "SJ_Sungmin",
+		"birth_name": "Lee Sungmin",
+		"birth_date": "01-01-1986",
+		"nationality": "Korean",
+		"gender": "Male",
+		"height": "175",
+		"weight": "57",
+		"blood_type": "A",
+	    "group": "Super Junior",
+	    "position": "Vocal, Dance",
+	    "sub_unit": "Super Junior-T, Super Junior-H, Super Junior-M"
+    },
+
+    {
+		"name": "Eunhyuk",
+		"img_name": "SJ_Eunhyuk",
+		"birth_name": "Lee Hyuk Jae",
+		"birth_date": "04-04-1986",
+		"nationality": "Korean",
+		"gender": "Male",
+		"height": "176",
+		"weight": "58",
+		"blood_type": "O",
+	    "group": "Super Junior",
+	    "position": "Rap, Dance, Vocal",
+	    "sub_unit": "Super Junior-T, Super Junior-H, Super Junior-M, Donghae & Eunhyuk"
+    },
+
+    {
+		"name": "Donghae",
+		"img_name": "SJ_Donghae",
+		"birth_name": "Lee Dong Hae",
+		"birth_date": "15-10-1986",
+		"nationality": "Korean",
+		"gender": "Male",
+		"height": "176",
+		"weight": "60",
+		"blood_type": "A",
+	    "group": "Super Junior",
+	    "position": "Vocal, Dance, Rap",
+	    "sub_unit": "Super Junior-M, Donghae & Eunhyuk"
+    },
+
+    {
+		"name": "Siwon",
+		"img_name": "SJ_Siwon",
+		"birth_name": "Choi Si Won",
+		"birth_date": "10-02-1987",
+		"nationality": "Korean",
+		"gender": "Male",
+		"height": "185",
+		"weight": "65",
+		"blood_type": "B",
+	    "group": "Super Junior",
+	    "position": "Vocal",
+	    "sub_unit": "Super Junior-M"
+    },
+
+    {
+		"name": "Ryeowook",
+		"img_name": "SJ_Ryeowook",
+		"birth_name": "Kim Ryeo Wook",
+		"birth_date": "21-06-1987",
+		"nationality": "Korean",
+		"gender": "Male",
+		"height": "175",
+		"weight": "58",
+		"blood_type": "O",
+	    "group": "Super Junior",
+	    "position": "Vocal",
+	    "sub_unit": "Super Junior-K.R.Y, Super Junior-M"
+    },
+
+    {
+		"name": "Kyuhyun",
+		"img_name": "SJ_Kyuhyun",
+		"birth_name": "Cho Kyu Hyun",
+		"birth_date": "03-02-1988",
+		"nationality": "Korean",
+		"gender": "Male",
+		"height": "180",
+		"weight": "68",
+		"blood_type": "A",
+	    "group": "Super Junior",
+	    "position": "Vocal, Maknae",
+	    "sub_unit": "Super Junior-K.R.Y, Super Junior-M, Solo"
+    },
+
+    {
+		"name": "Zhoumi",
+		"img_name": "SJ_Zhoumi",
+		"birth_name": "Zhou Mi",
+		"birth_date": "19-04-1986",
+		"nationality": "Chinese",
+		"gender": "Male",
+		"height": "185",
+		"weight": "64",
+		"blood_type": "B",
+	    "group": "Super Junior-M",
+	    "position": "Vocal, Rap",
+	    "sub_unit": "Solo"
+    },
+
+    {
+		"name": "Henry",
+		"img_name": "SJ_Henry",
+		"birth_name": "Henry Lau/Liu Xian Hua",
+		"birth_date": "11-10-1989",
+		"nationality": "Korean",
+		"gender": "Male",
+		"height": "178",
+		"weight": "63",
+		"blood_type": "AB",
+	    "group": "Super Junior-M",
+	    "position": "Vocal, Rap",
+	    "sub_unit": "Solo"
+    },
+
+    {
+		"name": "JeA",
+		"img_name": "BEG_Jea",
+		"birth_name": "Kim Hyo Jin",
+		"birth_date": "18-09-1981",
+		"nationality": "Korean",
+		"gender": "Female",
+		"height": "159",
+		"weight": "46",
+		"blood_type": "O",
+	    "group": "Brown Eyed Girls",
+	    "position": "Leader, Vocal",
+	    "sub_unit": "Solo"
+    },
+
+    {
+		"name": "Miryo",
+		"img_name": "BEG_Miryo",
+		"birth_name": "Jo Mihye",
+		"birth_date": "02-11-1981",
+		"nationality": "Korean",
+		"gender": "Female",
+		"height": "163",
+		"weight": "45",
+		"blood_type": "A",
+	    "group": "Brown Eyed Girls",
+	    "position": "Rap",
+	    "sub_unit": "M&N, Solo"
+    },
+
+    {
+		"name": "Narsha",
+		"img_name": "BEG_Narsha",
+		"birth_name": "Park Hyojin",
+		"birth_date": "28-12-1981",
+		"nationality": "Korean",
+		"gender": "Female",
+		"height": "158",
+		"weight": "46",
+		"blood_type": "A",
+	    "group": "Brown Eyed Girls",
+	    "position": "Vocal",
+	    "sub_unit": "M&N, Solo"
+    },
+
+    {
+		"name": "Gain",
+		"img_name": "BEG_Gain",
+		"birth_name": "Son Ga-In",
+		"birth_date": "20-09-1987",
+		"nationality": "Korean",
+		"gender": "Female",
+		"height": "163",
+		"weight": "45",
+		"blood_type": "B",
+	    "group": "Brown Eyed Girls",
+	    "position": "Vocal, Maknae",
+	    "sub_unit": "Solo"
+    },
+
+    {
+		"name": "T.O.P/TOP",
+		"img_name": "Big_Bang_TOP",
+		"birth_name": "Choi Seunghyun",
+		"birth_date": "04-11-1987",
+		"nationality": "Korean",
+		"gender": "Male",
+		"height": "181",
+		"weight": "65",
+		"blood_type": "B",
+	    "group": "Big Bang",
+	    "position": "Rap",
+	    "sub_unit": "GD and TOP, Solo"
+    },
+
+    {
+		"name": "Taeyang/Sol",
+		"img_name": "Big_Bang_Taeyang",
+		"birth_name": "Dong Youngbae",
+		"birth_date": "18-05-1988",
+		"nationality": "Korean",
+		"gender": "Male",
+		"height": "174",
+		"weight": "56",
+		"blood_type": "AB",
+	    "group": "Big Bang",
+	    "position": "Vocal, Dance",
+	    "sub_unit": "Solo"
+    },
+
+    {
+		"name": "G-Dragon/GD",
+		"img_name": "Big_Bang_GD",
+		"birth_name": "Kwon Jiyong",
+		"birth_date": "18-08-1988",
+		"nationality": "Korean",
+		"gender": "Male",
+		"height": "177",
+		"weight": "58",
+		"blood_type": "A",
+	    "group": "Big Bang",
+	    "position": "Leader, Rap, Vocal",
+	    "sub_unit": "GD and TOP, Solo"
+    },
+
+    {
+		"name": "Daesung/DLITE",
+		"img_name": "Big_Bang_Daesung",
+		"birth_name": "Kang Daesung",
+		"birth_date": "26-04-1989",
+		"nationality": "Korean",
+		"gender": "Male",
+		"height": "178",
+		"weight": "63",
+		"blood_type": "O",
+	    "group": "Big Bang",
+	    "position": "Vocal",
+	    "sub_unit": "Solo"
+    },
+
+    {
+		"name": "Seungri/V.I",
+		"img_name": "Big_Bang_Seungri",
+		"birth_name": "Lee Seunghyun",
+		"birth_date": "12-12-1990",
+		"nationality": "Korean",
+		"gender": "Male",
+		"height": "176",
+		"weight": "60",
+		"blood_type": "A",
+	    "group": "Big Bang",
+	    "position": "Vocal, Maknae",
+	    "sub_unit": "Solo"
+    },
+
+    {
+		"name": "Yubin",
+		"img_name": "Wonder_Girls_Yubin",
+		"birth_name": "Kim Yubin",
+		"birth_date": "04-10-1988",
+		"nationality": "Korean",
+		"gender": "Female",
+		"height": "163",
+		"weight": "45",
+		"blood_type": "O",
+	    "group": "Wonder Girls",
+	    "position": "Vocal, Rap",
+	    "sub_unit": "None"
+    },
+
+    {
+		"name": "Yenny",
+		"img_name": "Wonder_Girls_Yenny",
+		"birth_name": "Park Ye Eun",
+		"birth_date": "26-05-1989",
+		"nationality": "Korean",
+		"gender": "Female",
+		"height": "165",
+		"weight": "47",
+		"blood_type": "AB",
+	    "group": "Wonder Girls",
+	    "position": "Vocal",
+	    "sub_unit": "Solo"
+    },
+
+    {
+		"name": "Sunye",
+		"img_name": "Wonder_Girls_Sunye",
+		"birth_name": "Min Sunye",
+		"birth_date": "12-08-1989",
+		"nationality": "Korean",
+		"gender": "Female",
+		"height": "162",
+		"weight": "45",
+		"blood_type": "A",
+	    "group": "Wonder Girls",
+	    "position": "Leader, Vocal",
+	    "sub_unit": "None"
+    },
+
+    {
+		"name": "Lim",
+		"img_name": "Wonder_Girls_Lim",
+		"birth_name": "Woo Hyelim",
+		"birth_date": "01-09-1992",
+		"nationality": "Korean",
+		"gender": "Female",
+		"height": "164",
+		"weight": "45",
+		"blood_type": "O",
+	    "group": "Wonder Girls",
+	    "position": "Vocal, Rap, Maknae",
+	    "sub_unit": "None"
+    },
+
+    {
+		"name": "Gyuri",
+		"img_name": "KARA_Gyuri",
+		"birth_name": "Park Gyuri",
+		"birth_date": "21-05-1988",
+		"nationality": "Korean",
+		"gender": "Female",
+		"height": "162",
+		"weight": "45",
+		"blood_type": "AB",
+	    "group": "KARA",
+	    "position": "Leader, Vocal, Rap",
+	    "sub_unit": "Solo"
+    },
+
+    {
+		"name": "Seungyeon",
+		"img_name": "KARA_Seungyeon",
+		"birth_name": "Han Seungyeon",
+		"birth_date": "24-07-1988",
+		"nationality": "Korean",
+		"gender": "Female",
+		"height": "160",
+		"weight": "43",
+		"blood_type": "A",
+	    "group": "KARA",
+	    "position": "Vocal",
+	    "sub_unit": "Solo"
+    },
+
+    {
+		"name": "Hara",
+		"img_name": "KARA_Hara",
+		"birth_name": "Goo Hara",
+		"birth_date": "13-01-1991",
+		"nationality": "Korean",
+		"gender": "Female",
+		"height": "163",
+		"weight": "43",
+		"blood_type": "B",
+	    "group": "KARA",
+	    "position": "Vocal, Dance",
+	    "sub_unit": "Solo"
+    },
+
+    {
+		"name": "Youngji",
+		"img_name": "KARA_Youngji",
+		"birth_name": "Heo Youngji",
+		"birth_date": "30-08-1994",
+		"nationality": "Korean",
+		"gender": "Female",
+		"height": "166",
+		"weight": "49",
+		"blood_type": "A",
+	    "group": "KARA",
+	    "position": "Vocal, Maknae",
+	    "sub_unit": "None"
+    },
+
+    {
+		"name": "Hongki",
+		"img_name": "FTisland_Hongki",
+		"birth_name": "Lee Honggi",
+		"birth_date": "02-03-1990",
+		"nationality": "Korean",
+		"gender": "Male",
+		"height": "178",
+		"weight": "60",
+		"blood_type": "AB",
+	    "group": "FT Island",
+	    "position": "Vocal",
+	    "sub_unit": "None"
+    },
+
+    {
+		"name": "Jonghun",
+		"img_name": "FTisland_Jonghun",
+		"birth_name": "Choi Jonghoon",
+		"birth_date": "07-03-1990",
+		"nationality": "Korean",
+		"gender": "Male",
+		"height": "178",
+		"weight": "65",
+		"blood_type": "A",
+	    "group": "FT Island",
+	    "position": "Leader, Guitar, Vocal",
+	    "sub_unit": "FT Triple"
+    },
+
+    {
+		"name": "Jaejin",
+		"img_name": "FTisland_Jaejin",
+		"birth_name": "Lee Jaejin",
+		"birth_date": "17-12-1991",
+		"nationality": "Korean",
+		"gender": "Male",
+		"height": "177",
+		"weight": "58",
+		"blood_type": "A",
+	    "group": "FT Island",
+	    "position": "Bass, Vocal",
+	    "sub_unit": "FT Triple"
+    },
+
+    {
+		"name": "Seunghyun",
+		"img_name": "FTisland_Seunghyun",
+		"birth_name": "Song Seunghyun",
+		"birth_date": "21-08-1992",
+		"nationality": "Korean",
+		"gender": "Male",
+		"height": "180",
+		"weight": "60",
+		"blood_type": "O",
+	    "group": "FT Island",
+	    "position": "Guitar, Vocal",
+	    "sub_unit": "None"
+    },
+
+    {
+		"name": "Minhwan",
+		"img_name": "FTisland_Minhwan",
+		"birth_name": "Choi Minhwan",
+		"birth_date": "11-11-1992",
+		"nationality": "Korean",
+		"gender": "Male",
+		"height": "173",
+		"weight": "56",
+		"blood_type": "A",
+	    "group": "FT Island",
+	    "position": "Drums, Vocal, Maknae",
+	    "sub_unit": "FT Triple"
+    },
+
+    {
+		"name": "Taeyeon",
+		"img_name": "SNSD_Taeyeon",
+		"birth_name": "Kim Tae Yeon",
+		"birth_date": "09-03-1989",
+		"nationality": "Korean",
+		"gender": "Female",
+		"height": "158",
+		"weight": "45",
+		"blood_type": "O",
+	    "group": "SNSD/Girls' Generation",
+	    "position": "Leader, Main Vocal",
+	    "sub_unit": "Taetiseo"
+    },
+
+    {
+		"name": "Jessica",
+		"img_name": "SNSD_Jessica",
+		"birth_name": "Jessica Jung/Jung Soo Yeon",
+		"birth_date": "18-04-1989",
+		"nationality": "Korean-American",
+		"gender": "Female",
+		"height": "162",
+		"weight": "46",
+		"blood_type": "B",
+	    "group": "None",
+	    "position": "Vocal",
+	    "sub_unit": "None"
+    },
+
+    {
+		"name": "Sunny",
+		"img_name": "SNSD_Sunny",
+		"birth_name": "Lee Soon Kyu",
+		"birth_date": "15-05-1989",
+		"nationality": "Korean",
+		"gender": "Female",
+		"height": "155",
+		"weight": "44",
+		"blood_type": "B",
+	    "group": "SNSD/Girls' Generation",
+	    "position": "Lead Vocal",
+	    "sub_unit": "None"
+    },
+
+    {
+		"name": "Tiffany",
+		"img_name": "SNSD_Tiffany",
+		"birth_name": "Stephanie Hwang/Hwang Mi Young",
+		"birth_date": "01-08-1989",
+		"nationality": "Korean-American",
+		"gender": "Female",
+		"height": "163",
+		"weight": "51",
+		"blood_type": "O",
+	    "group": "SNSD/Girls' Generation",
+	    "position": "Lead Vocal",
+	    "sub_unit": "Taetiseo"
+    },
+
+    {
+		"name": "Hyoyeon",
+		"img_name": "SNSD_Hyoyeon",
+		"birth_name": "Kim Hyo Yeon",
+		"birth_date": "22-09-1989",
+		"nationality": "Korean",
+		"gender": "Female",
+		"height": "160",
+		"weight": "49",
+		"blood_type": "AB",
+	    "group": "SNSD/Girls' Generation",
+	    "position": "Vocal, Main Dance",
+	    "sub_unit": "None"
+    },
+
+    {
+		"name": "Yuri",
+		"img_name": "SNSD_Yuri",
+		"birth_name": "Kwon Yu Ri",
+		"birth_date": "05-12-1989",
+		"nationality": "Korean",
+		"gender": "Female",
+		"height": "166",
+		"weight": "46",
+		"blood_type": "AB",
+	    "group": "SNSD/Girls' Generation",
+	    "position": "Vocal, Lead Dance",
+	    "sub_unit": "None"
+    },
+
+    {
+		"name": "Sooyoung",
+		"img_name": "SNSD_Sooyoung",
+		"birth_name": "Choi Soo Young",
+		"birth_date": "10-02-1990",
+		"nationality": "Korean",
+		"gender": "Female",
+		"height": "170",
+		"weight": "49",
+		"blood_type": "O",
+	    "group": "SNSD/Girls' Generation",
+	    "position": "Vocal, Lead Dance",
+	    "sub_unit": "None"
+    },
+
+    {
+		"name": "Yoona",
+		"img_name": "SNSD_Yoona",
+		"birth_name": "Im Yoon Ah",
+		"birth_date": "30-05-1990",
+		"nationality": "Korean",
+		"gender": "Female",
+		"height": "167",
+		"weight": "48",
+		"blood_type": "B",
+	    "group": "SNSD/Girls' Generation",
+	    "position": "Vocal, Lead Dance",
+	    "sub_unit": "None"
+    },
+
+    {
+		"name": "Seohyun",
+		"img_name": "SNSD_Seohyun",
+		"birth_name": "Seo Joo Hyun",
+		"birth_date": "28-07-1991",
+		"nationality": "Korean",
+		"gender": "Female",
+		"height": "168",
+		"weight": "49",
+		"blood_type": "A",
+	    "group": "SNSD/Girls' Generation",
+	    "position": "Lead Vocal, Maknae",
+	    "sub_unit": "Taetiseo"
+    },
+
+    {
+		"name": "",
+		"img_name": "",
+		"birth_name": "",
+		"birth_date": "",
+		"nationality": "",
+		"gender": "",
+		"height": "",
+		"weight": "",
+		"blood_type": "",
+	    "group": "",
+	    "position": "",
+	    "sub_unit": ""
+    }
+]

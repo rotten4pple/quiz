@@ -1,0 +1,203 @@
+body {
+	margin: 0;
+	padding: 0;
+	background-color: #F4F2E2;
+}
+
+header ul {
+	height: 36px;
+	background-color: black;
+	margin: 0;
+}
+
+header ul li {
+	display: inline;
+	float: left;
+	padding: 10px;
+}
+
+header ul a li {
+	color: white;
+	text-decoration: none;
+}
+
+header ul a li:hover {
+	background-color: grey;
+}
+
+header ul form {
+	display: inline;
+	float: right;
+}
+
+header #logged_in {
+	float: right;
+	color: white;
+	display: inline;
+}
+
+header #logged_in input {
+	margin: 7px 10px 0 0;
+}
+
+#home {
+	max-width: 1400px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.content {
+	max-width: 1600px;
+	margin: 0 auto;
+}
+
+#container {
+	margin: auto;
+	width: 200px;
+}
+
+#searchbar {
+	width: 190px;
+}
+
+#select {
+	float: left;
+	margin-left: 70px;
+}
+
+#select p {
+	margin: 0;
+}
+
+#head {
+	margin: auto;
+	width: 200px;
+}
+
+#head h1 {
+	text-align: center;
+}
+
+#content2 {
+	margin: 0 auto;
+	max-width: 1400px;
+}
+
+#content2 ul {
+	border: 1px solid black;
+	padding: 0 40px;
+	margin: 20px 20px;
+	float: left;
+	min-height: 704px;
+	width: 500px;
+}
+
+#content2 ul:last-child {
+	margin-bottom: 70px;
+}
+
+#content2 img {
+	width: 500px;
+	height: 500px;
+}
+
+#content2 li {
+	list-style: none;
+}
+
+/* ADMIN PANEL */
+
+#adminpanel {
+	padding: 20px;
+}
+
+#adminpanel input, #adminpanel select, #adminpanel label {
+	display: block;
+	margin-bottom: 5px;
+}
+
+#adminpanel .answer {
+	margin: 0;
+}
+
+#adminpanel .answercorrect {
+	margin: 0;
+	font-weight: bold;
+}
+
+#adminpanel input[type="radio"] {
+	display: inline;
+}
+
+#adminpanel table , #adminpanel th, #adminpanel td {
+	border: 1px solid black;
+	padding: 4px;
+}
+
+#quizName {
+	margin-top: 12px;
+}
+
+#quizName input {
+	display: inline;
+}
+
+#quizNameHeader {
+	display: inline;
+}
+
+.question {
+	display: inline;
+}
+
+.answer {
+	display: inline-block;
+}
+
+#adminpanel #quizdetails #questionsList .answers-inline input {
+	display: inline;
+}
+
+/* PLAY QUIZ */
+
+#playquiz {
+	padding: 20px;
+}
+
+#playcontainer {
+	text-align: center;
+}
+
+#playbutton {
+	font-size: 50px;
+	text-decoration: none;
+	position: relative;
+	top: 200px;
+}
+
+#playquizleft {
+	float: left;
+}
+
+#playquizright {
+	padding: 20px;
+}
+
+#playquizright button {
+	font-size: 30px;
+	margin: 10px;
+}
+
+#result {
+	font-size: 40px;
+}
+
+#cover {
+	position: absolute;
+	background-color: black;
+	width: 100%;
+	top: 36px;
+	height: 100%;
+	z-index: -1000;
+	opacity: 0;
+}

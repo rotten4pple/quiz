@@ -45,15 +45,16 @@
 		var buildQuestion = "<div id='playquizleft'>";
 		buildQuestion += "<img src='/quiz/assets/img/Kpop-groups/"+questionList.questions[currentQuestion].Imgname+".png'>";
 		buildQuestion += "</div><div id='playquizright'>";
-		buildQuestion += "<p>Q"+displayCurrentQuestion+"/"+quizLength+"</p>";
+		buildQuestion += "<p id='questionNumber'>Q"+displayCurrentQuestion+"/"+quizLength+"</p>";
 		buildQuestion += "<p id='timer'>12</p>";
+		buildQuestion += "<div id='answerButtons'>";
 		
 		for(var i = 0; i < answersLength; i++)
 		{
 			buildQuestion += "<button class='answers' data-questionid='"+answers[i].Question_idQuestion+"' data-answerid='"+answers[i].idAnswer+"'>"+answers[i].AnswerValue+"</button>";
 		}
 
-		buildQuestion += "</div>";
+		buildQuestion += "</div></div>";
 		playquiz.innerHTML = buildQuestion;
 		addAnswerEvent();
 		currentQuestion++;

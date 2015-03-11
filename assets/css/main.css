@@ -1,7 +1,8 @@
 body {
 	margin: 0;
 	padding: 0;
-	background-color: #F4F2E2;
+	background-color: #f4f4f4;
+	font-family: helvetica;
 }
 
 header ul {
@@ -173,6 +174,7 @@ header #logged_in input {
 	text-decoration: none;
 	position: relative;
 	top: 200px;
+	color: #000;
 }
 
 #playquizleft {
@@ -183,9 +185,28 @@ header #logged_in input {
 	padding: 20px;
 }
 
+#playquizright p {
+	font-size: 30px;
+}
+
+#playquizright #questionNumber {
+	display: inline;
+	float: left;
+}
+
+#playquizright #timer {
+	display: inline;
+	float: right;
+}
+
+#playquizright #answerButtons {
+	clear: right;
+}
+
 #playquizright button {
 	font-size: 30px;
 	margin: 10px;
+	width: 250px;
 }
 
 #result {
